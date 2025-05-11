@@ -1,112 +1,120 @@
 # LeetCode-Topic-wise-Solutions
 
 
-# Hashing Problems
+## 🧠 Hashing - 
 
-## 🟢 Easy
+### 🟢 Easy
 
 | NO | Problem | Difficulty |
 |----|---------|------------|
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
-| 2  | [Single Number](https://leetcode.com/problems/single-number/) | Easy |
-| 3  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy |
-| 4  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
-| 5  | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy |
-| 6  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
-| 7  | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy |
-| 8  | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy |
-| 9  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
+| 2 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy |
+| 3 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy |
+| 4 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
+| 5 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy |
+| 6 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy |
+| 7 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
+| 8 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy |
+| 9 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy |
 | 10 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Easy |
-| 11 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy |
-| 12 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Easy |
-| 13 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy |
-| 14 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy |
-| 15 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Easy |
-| 16 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy |
-| 17 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy |
-| 18 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy |
-| 19 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Easy |
-| 20 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Easy |
-| 21 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Easy |
-| 22 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy |
-| 23 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy |
-| 24 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Easy |
-| 25 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Easy |
-| 26 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy |
-| 27 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy |
-| 28 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy |
-| 29 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | Easy |
-| 30 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |
+| 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy |
+| 12 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy |
+| 13 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy |
+| 14 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Easy |
+| 15 | [Check if Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy |
+| 16 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Easy |
+| 17 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy |
+| 18 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy |
+| 19 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | Easy |
+| 20 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy |
+| 21 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | Easy |
+| 22 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Easy |
+| 23 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy |
+| 24 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | Easy |
+| 25 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy |
+| 26 | [Max Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy |
+| 27 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Easy |
+| 28 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | Easy |
+| 29 | [Check if Every Letter Appears Once](https://leetcode.com/problems/check-if-every-letter-appears-once/) | Easy |
+| 30 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | Easy |
 
-## 🟡 Medium
+---
 
-| NO | Problem | Difficulty |
-|----|---------|------------|
-| 1  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium |
-| 2  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium |
-| 3  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium |
-| 4  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium |
-| 5  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |
-| 6  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
-| 7  | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | Medium |
-| 8  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Medium |
-| 9  | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | Medium |
-| 10 | [Number of Subarrays with Sum 0](https://leetcode.com/problems/number-of-subarrays-with-sum-0/) | Medium |
-| 11 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |
-| 12 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Medium |
-| 13 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Medium |
-| 14 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium |
-| 15 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | Medium |
-| 16 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | Medium |
-| 17 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Medium |
-| 18 | [Find the Largest Value in Each Tree Row](https://leetcode.com/problems/find-the-largest-value-in-each-tree-row/) | Medium |
-| 19 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium |
-| 20 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Medium |
-| 21 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Medium |
-| 22 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Medium |
-| 23 | [Happy Number](https://leetcode.com/problems/happy-number/) | Medium |
-| 24 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium |
-| 25 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Medium |
-| 26 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium |
-| 27 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium |
-| 28 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium |
-| 29 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium |
-| 30 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | Medium |
-
-## 🔴 Hard
+### 🟡 Medium
 
 | NO | Problem | Difficulty |
 |----|---------|------------|
-| 1  | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | Hard |
-| 2  | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | Hard |
-| 3  | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Hard |
-| 4  | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard |
-| 5  | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | Hard |
-| 6  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |
-| 7  | [Word Break III](https://leetcode.com/problems/word-break-iii/) | Hard |
-| 8  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard |
-| 9  | [Count of Subarrays with Sum Equal to Target](https://leetcode.com/problems/count-of-subarrays-with-sum-equal-to-target/) | Hard |
-| 10 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Hard |
-| 11 | [Design LFU Cache](https://leetcode.com/problems/design-lfu-cache/) | Hard |
-| 12 | [Count the Number of Good Substrings](https://leetcode.com/problems/count-the-number-of-good-substrings/) | Hard |
-| 13 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard |
-| 14 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard |
-| 15 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Hard |
-| 16 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard |
-| 17 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard |
-| 18 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) | Hard |
-| 19 | [Find K-th Largest Sum](https://leetcode.com/problems/find-k-th-largest-sum/) | Hard |
-| 20 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Hard |
-| 21 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard |
-| 22 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard |
-| 23 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard |
-| 24 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Hard |
-| 25 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard |
-| 26 | [Number of Subarrays with Sum 0](https://leetcode.com/problems/number-of-subarrays-with-sum-0/) | Hard |
-| 27 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Hard |
-| 28 | [Find Kth Largest Element in a Stream](https://leetcode.com/problems/find-kth-largest-element-in-a-stream/) | Hard |
-| 29 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Hard |
-| 30 | [Largest Number](https://leetcode.com/problems/largest-number/) | Hard |
+| 1 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium |
+| 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |
+| 3 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |
+| 4 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium |
+| 5 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium |
+| 6 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | Medium |
+| 7 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | Medium |
+| 8 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium |
+| 9 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium |
+| 10 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium |
+| 11 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium |
+| 12 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | Medium |
+| 13 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium |
+| 14 | [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/) | Medium |
+| 15 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium |
+| 16 | [Replace Words](https://leetcode.com/problems/replace-words/) | Medium |
+| 17 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | Medium |
+| 18 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Medium |
+| 19 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium |
+| 20 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | Medium |
+| 21 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium |
+| 22 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium |
+| 23 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Medium |
+| 24 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium |
+| 25 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | Medium |
+| 26 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | Medium |
+| 27 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium |
+| 28 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | Medium |
+| 29 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | Medium |
+| 30 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | Medium |
+
+---
+
+### 🔴 Hard
+
+| NO | Problem | Difficulty |
+|----|---------|------------|
+| 1 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard |
+| 2 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard |
+| 3 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | Hard |
+| 4 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard |
+| 5 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard |
+| 6 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | Hard |
+| 7 | [Substring with Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | Hard |
+| 8 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | Hard |
+| 9 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | Hard |
+| 10 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | Hard |
+| 11 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | Hard |
+| 12 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard |
+| 13 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | Hard |
+| 14 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | Hard |
+| 15 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | Hard |
+| 16 | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | Hard |
+| 17 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard |
+| 18 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| 19 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | Hard |
+| 20 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | Hard |
+| 21 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Hard |
+| 22 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard |
+| 23 | [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | Hard |
+| 24 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) | Hard |
+| 25 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | Hard |
+| 26 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Hard |
+| 27 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | Hard |
+| 28 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | Hard |
+| 29 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Hard |
+| 30 | [Word Squares](https://leetcode.com/problems/word-squares/) | Hard |
+
+---
+
+Let me know if you want this saved to a `.md` file or want the same format for other topics like Union-Find, Linked List, etc.
 
 ## Arrays
 
