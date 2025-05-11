@@ -633,3 +633,113 @@
 | 29 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard |
 | 30 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Hard |
 
+
+
+## Linked List
+### 🟢 Easy
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |
+| 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
+| 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy |
+| 4 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy |
+| 5 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy |
+| 6 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| 7 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |
+| 8 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy |
+| 9 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Easy |
+| 10 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy |
+| 11 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy |
+| 12 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy |
+| 13 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Easy |
+| 14 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Easy |
+| 15 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Easy |
+| 16 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy |
+| 17 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Easy |
+| 18 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Easy |
+| 19 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy |
+| 20 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Easy |
+| 21 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Easy |
+| 22 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Easy |
+| 23 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Easy |
+| 24 | [Check if Linked List is Palindrome](https://leetcode.com/problems/palindrome-linked-list/) | Easy |
+| 25 | [Find Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy |
+| 26 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Easy |
+| 27 | [Find Intersection Node](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy |
+| 28 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Easy |
+| 29 | [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Easy |
+| 30 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Easy |
+
+
+### 🟡 Medium
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium |
+| 2 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium |
+| 3 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |
+| 4 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium |
+| 5 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium |
+| 6 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium |
+| 7 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium |
+| 8 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium |
+| 9 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium |
+| 10 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |
+| 11 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium |
+| 12 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Medium |
+| 13 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium |
+| 14 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| 15 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Medium |
+| 16 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium |
+| 17 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |
+| 18 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium |
+| 19 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium |
+| 20 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium |
+| 21 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | Medium |
+| 22 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium |
+| 23 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium |
+| 24 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | Medium |
+| 25 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | Medium |
+| 26 | [Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | Medium |
+| 27 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Medium |
+| 28 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium |
+| 29 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium |
+| 30 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium |
+
+
+### 🔴 Hard
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard |
+| 2 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |
+| 3 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Hard |
+| 4 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Hard |
+| 5 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | Hard |
+| 6 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | Hard |
+| 7 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Hard |
+| 8 | [Split Linked List into Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Hard |
+| 9 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Hard |
+| 10 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Hard |
+| 11 | [Sort List](https://leetcode.com/problems/sort-list/) | Hard |
+| 12 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Hard |
+| 13 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Hard |
+| 14 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Hard |
+| 15 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Hard |
+| 16 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Hard |
+| 17 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | Hard |
+| 18 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Hard |
+| 19 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Hard |
+| 20 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Hard |
+| 21 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Hard |
+| 22 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Hard |
+| 23 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Hard |
+| 24 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Hard |
+| 25 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Hard |
+| 26 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Hard |
+| 27 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Hard |
+| 28 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Hard |
+| 29 | [Partition List](https://leetcode.com/problems/partition-list/) | Hard |
+| 30 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Hard |
+
