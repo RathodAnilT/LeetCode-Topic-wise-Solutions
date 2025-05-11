@@ -4,10 +4,10 @@
 
 ### 🟢 Easy
 
-| No. | Problem | Difficulty | Done|
-|-----|---------|------------|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |- [ ] |
-| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |- [ ] |
+| No. | Problem | Difficulty | 
+|-----|---------|------------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
+| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 
 | 3 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 | 4 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy |
 | 5 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy |
