@@ -856,3 +856,111 @@
 | 30  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard |
 
 ---
+
+## **Binary Search Tree (BST)**
+
+### 🟢 Easy
+| No  | Problem | Difficulty |
+|-----|---------|------------|
+| 1   | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy |
+| 2   | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Easy |
+| 3   | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy |
+| 4   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Easy |
+| 5   | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | Easy |
+| 6   | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Easy |
+| 7   | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Easy |
+| 8   | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy |
+| 9   | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Easy |
+| 10  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy |
+| 11  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy |
+| 12  | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Easy |
+| 13  | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Easy |
+| 14  | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy |
+| 15  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy |
+| 16  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy |
+| 17  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
+| 18  | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Easy |
+| 19  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy |
+| 20  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy |
+| 21  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy |
+| 22  | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy |
+| 23  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Easy |
+| 24  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy |
+| 25  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy |
+| 26  | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Easy |
+| 27  | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy |
+| 28  | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy |
+| 29  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Easy |
+| 30  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy |
+
+---
+
+### 🟡 Medium
+| No  | Problem | Difficulty |
+|-----|---------|------------|
+| 1   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |
+| 2   | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium |
+| 3   | [Kth Largest Element in a BST](https://leetcode.com/problems/kth-largest-element-in-a-bst/) | Medium |
+| 4   | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | Medium |
+| 5   | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Medium |
+| 6   | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| 7   | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Medium |
+| 8   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |
+| 9   | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Medium |
+| 10  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium |
+| 11  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium |
+| 12  | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | Medium |
+| 13  | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Medium |
+| 14  | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) | Medium |
+| 15  | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium |
+| 16  | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium |
+| 17  | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium |
+| 18  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium |
+| 19  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Medium |
+| 20  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Medium |
+| 21  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium |
+| 22  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium |
+| 23  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Medium |
+| 24  | [Find Kth Largest Element in a Binary Search Tree](https://leetcode.com/problems/find-kth-largest-element-in-a-binary-search-tree/) | Medium |
+| 25  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | Medium |
+| 26  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium |
+| 27  | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | Medium |
+| 28  | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
+| 29  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Medium |
+| 30  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |
+
+---
+
+### 🔴 Hard
+| No  | Problem | Difficulty |
+|-----|---------|------------|
+| 1   | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | Hard |
+| 2   | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | Hard |
+| 3   | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) | Hard |
+| 4   | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Hard |
+| 5   | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard |
+| 6   | [Kth Largest Element in a Binary Search Tree](https://leetcode.com/problems/kth-largest-element-in-a-binary-search-tree/) | Hard |
+| 7   | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard |
+| 8   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard |
+| 9   | [Find the Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Hard |
+| 10  | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | Hard |
+| 11  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Hard |
+| 12  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Hard |
+| 13  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | Hard |
+| 14  | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard |
+| 15  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Hard |
+| 16  | [Maximum Path Sum in Binary Tree](https://leetcode.com/problems/maximum-path-sum/) | Hard |
+| 17  | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) | Hard |
+| 18  | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | Hard |
+| 19  | [Falling Squares](https://leetcode.com/problems/falling-squares/) | Hard |
+| 20  | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | Hard |
+| 21  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard |
+| 22  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Hard |
+| 23  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Hard |
+| 24  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Hard |
+| 25  | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard |
+| 26  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Hard |
+| 27  | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard |
+| 28  | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Hard |
+| 29  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard |
+| 30  | [K-th Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Hard |
