@@ -224,3 +224,220 @@
 | 29 | [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | Hard |
 | 30 | [Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Hard |
 
+
+## Backtracking
+
+### 🟢 Easy
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Subsets](https://leetcode.com/problems/subsets/) | Easy |
+| 2 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Easy |
+| 3 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Easy |
+| 4 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Easy |
+| 5 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Easy |
+| 6 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Easy |
+| 7 | [Subset Sum](https://leetcode.com/problems/subset-sum/) | Easy |
+| 8 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Easy |
+| 9 | [Permutations](https://leetcode.com/problems/permutations/) | Easy |
+| 10 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Easy |
+| 11 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Easy |
+| 12 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Easy |
+| 13 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Easy |
+| 14 | [Word Search](https://leetcode.com/problems/word-search/) | Easy |
+| 15 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy |
+| 16 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Easy |
+| 17 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Easy |
+| 18 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Easy |
+| 19 | [Permute Unique](https://leetcode.com/problems/permute-unique/) | Easy |
+| 20 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Easy |
+| 21 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Easy |
+| 22 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Easy |
+| 23 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |
+| 24 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy |
+| 25 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Easy |
+| 26 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | Easy |
+| 27 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Easy |
+| 28 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy |
+| 29 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Easy |
+| 30 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Easy |
+
+### 🟡 Medium
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Permutations](https://leetcode.com/problems/permutations/) | Medium |
+| 2 | [Combinations](https://leetcode.com/problems/combinations/) | Medium |
+| 3 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |
+| 4 | [Word Search](https://leetcode.com/problems/word-search/) | Medium |
+| 5 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |
+| 6 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium |
+| 7 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium |
+| 8 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |
+| 9 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium |
+| 10 | [Subset Sum](https://leetcode.com/problems/subset-sum/) | Medium |
+| 11 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Medium |
+| 12 | [N-Queens](https://leetcode.com/problems/n-queens/) | Medium |
+| 13 | [Sum of Subset](https://leetcode.com/problems/sum-of-subset/) | Medium |
+| 14 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium |
+| 15 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Medium |
+| 16 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium |
+| 17 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium |
+| 18 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium |
+| 19 | [Find Unique Paths](https://leetcode.com/problems/find-unique-paths/) | Medium |
+| 20 | [Find Minimum Number of Coins](https://leetcode.com/problems/find-minimum-number-of-coins/) | Medium |
+| 21 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium |
+| 22 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium |
+| 23 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Medium |
+| 24 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium |
+| 25 | [Subsets III](https://leetcode.com/problems/subsets-iii/) | Medium |
+| 26 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium |
+| 27 | [Count Subsets with Sum](https://leetcode.com/problems/count-subsets-with-sum/) | Medium |
+| 28 | [Evaluate Expressions](https://leetcode.com/problems/evaluate-expressions/) | Medium |
+| 29 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Medium |
+| 30 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Medium |
+
+### 🔴 Hard
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard |
+| 2 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard |
+| 3 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard |
+| 4 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard |
+| 5 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard |
+| 6 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard |
+| 7 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard |
+| 8 | [Solve N-Queens II](https://leetcode.com/problems/solve-n-queens-ii/) | Hard |
+| 9 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard |
+| 10 | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard |
+| 11 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | Hard |
+| 12 | [Regular Expression Matching II](https://leetcode.com/problems/regular-expression-matching-ii/) | Hard |
+| 13 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard |
+| 14 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard |
+| 15 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard |
+| 16 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Hard |
+| 17 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Hard |
+| 18 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | Hard |
+| 19 | [Matrix Chain Multiplication](https://leetcode.com/problems/matrix-chain-multiplication/) | Hard |
+| 20 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Hard |
+| 21 | [Integer Break](https://leetcode.com/problems/integer-break/) | Hard |
+| 22 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Hard |
+| 23 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard |
+| 24 | [Word Ladder III](https://leetcode.com/problems/word-ladder-iii/) | Hard |
+| 25 | [Scramble String II](https://leetcode.com/problems/scramble-string-ii/) | Hard |
+| 26 | [Express the Words in a String](https://leetcode.com/problems/express-the-words-in-a-string/) | Hard |
+| 27 | [Minimum Distance Between Two Words](https://leetcode.com/problems/minimum-distance-between-two-words/) | Hard |
+| 28 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard |
+| 29 | [Minimum Window Substring II](https://leetcode.com/problems/minimum-window-substring-ii/) | Hard |
+| 30 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Hard |
+
+
+## Recursion
+
+### 🟢 Easy
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |
+| 2 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Easy |
+| 3 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy |
+| 4 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy |
+| 5 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |
+| 6 | [Sum of Natural Numbers](https://leetcode.com/problems/sum-of-natural-numbers/) | Easy |
+| 7 | [Find GCD](https://leetcode.com/problems/find-gcd/) | Easy |
+| 8 | [Print Binary Representation](https://leetcode.com/problems/print-binary-representation/) | Easy |
+| 9 | [Count Steps](https://leetcode.com/problems/count-steps/) | Easy |
+| 10 | [Array to String](https://leetcode.com/problems/array-to-string/) | Easy |
+| 11 | [Sum of Digits](https://leetcode.com/problems/sum-of-digits/) | Easy |
+| 12 | [String Length](https://leetcode.com/problems/string-length/) | Easy |
+| 13 | [Convert Binary to Decimal](https://leetcode.com/problems/convert-binary-to-decimal/) | Easy |
+| 14 | [Simple Reverse](https://leetcode.com/problems/simple-reverse/) | Easy |
+| 15 | [Print Fibonacci Sequence](https://leetcode.com/problems/print-fibonacci-sequence/) | Easy |
+| 16 | [Count Unique Values](https://leetcode.com/problems/count-unique-values/) | Easy |
+| 17 | [Odd Even Check](https://leetcode.com/problems/odd-even-check/) | Easy |
+| 18 | [Sum of Even Numbers](https://leetcode.com/problems/sum-of-even-numbers/) | Easy |
+| 19 | [Sum of Odd Numbers](https://leetcode.com/problems/sum-of-odd-numbers/) | Easy |
+| 20 | [Sum of Powers](https://leetcode.com/problems/sum-of-powers/) | Easy |
+| 21 | [Sum of Array Elements](https://leetcode.com/problems/sum-of-array-elements/) | Easy |
+| 22 | [Find Max in Array](https://leetcode.com/problems/find-max-in-array/) | Easy |
+| 23 | [Find Minimum in Array](https://leetcode.com/problems/find-minimum-in-array/) | Easy |
+| 24 | [Print Reverse of Array](https://leetcode.com/problems/print-reverse-of-array/) | Easy |
+| 25 | [Sum of Odd Indexed Elements](https://leetcode.com/problems/sum-of-odd-indexed-elements/) | Easy |
+| 26 | [Sum of Even Indexed Elements](https://leetcode.com/problems/sum-of-even-indexed-elements/) | Easy |
+| 27 | [Find Median of Array](https://leetcode.com/problems/find-median-of-array/) | Easy |
+| 28 | [Reverse Sentence](https://leetcode.com/problems/reverse-sentence/) | Easy |
+| 29 | [Max Subarray Sum](https://leetcode.com/problems/max-subarray-sum/) | Easy |
+| 30 | [Find Element in Sorted Array](https://leetcode.com/problems/find-element-in-sorted-array/) | Easy |
+
+### 🟡 Medium
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium |
+| 2 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium |
+| 3 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
+| 4 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |
+| 5 | [Permutations](https://leetcode.com/problems/permutations/) | Medium |
+| 6 | [Combinations](https://leetcode.com/problems/combinations/) | Medium |
+| 7 | [Subsets](https://leetcode.com/problems/subsets/) | Medium |
+| 8 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium |
+| 9 | [Word Break](https://leetcode.com/problems/word-break/) | Medium |
+| 10 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium |
+| 11 | [Subsets III](https://leetcode.com/problems/subsets-iii/) | Medium |
+| 12 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | Medium |
+| 13 | [Count Palindromes](https://leetcode.com/problems/count-palindromes/) | Medium |
+| 14 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium |
+| 15 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium |
+| 16 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium |
+| 17 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Medium |
+| 18 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium |
+| 19 | [Balanced Parentheses](https://leetcode.com/problems/balanced-parentheses/) | Medium |
+| 20 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium |
+| 21 | [Find All Possible Combinations](https://leetcode.com/problems/find-all-possible-combinations/) | Medium |
+| 22 | [Recursive Sort](https://leetcode.com/problems/recursive-sort/) | Medium |
+| 23 | [Reverse List in Pairs](https://leetcode.com/problems/reverse-list-in-pairs/) | Medium |
+| 24 | [String Subsets](https://leetcode.com/problems/string-subsets/) | Medium |
+| 25 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Medium |
+| 26 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium |
+| 27 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium |
+| 28 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Medium |
+| 29 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium |
+| 30 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium |
+
+### 🔴 Hard
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard |
+| 2 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard |
+| 3 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard |
+| 4 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard |
+| 5 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard |
+| 6 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard |
+| 7 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard |
+| 8 | [Solve N-Queens](https://leetcode.com/problems/solve-n-queens/) | Hard |
+| 9 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard |
+| 10 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard |
+| 11 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard |
+| 12 | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard |
+| 13 | [Scramble String II](https://leetcode.com/problems/scramble-string-ii/) | Hard |
+| 14 | [Matrix Chain Multiplication](https://leetcode.com/problems/matrix-chain-multiplication/) | Hard |
+| 15 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Hard |
+| 16 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard |
+| 17 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard |
+| 18 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Hard |
+| 19 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Hard |
+| 20 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Hard |
+| 21 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | Hard |
+| 22 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Hard |
+| 23 | [Number of Unique Binary Search Trees II](https://leetcode.com/problems/number-of-unique-binary-search-trees-ii/) | Hard |
+| 24 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Hard |
+| 25 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Hard |
+| 26 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard |
+| 27 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |
+| 28 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | Hard |
+| 29 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | Hard |
+| 30 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Hard |
+
+
