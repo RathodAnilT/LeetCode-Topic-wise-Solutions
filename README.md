@@ -441,3 +441,195 @@
 | 30 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Hard |
 
 
+## Stack
+
+### 🟢 Easy
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy |
+| 2 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy |
+| 3 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Easy |
+| 4 | [Min Stack](https://leetcode.com/problems/min-stack/) | Easy |
+| 5 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy |
+| 6 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |
+| 7 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
+| 8 | [Reverse Polish Notation](https://leetcode.com/problems/reverse-polish-notation/) | Easy |
+| 9 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy |
+| 10 | [Implement Stack with Linked List](https://leetcode.com/problems/implement-stack-with-linked-list/) | Easy |
+| 11 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Easy |
+| 12 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Easy |
+| 13 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Easy |
+| 14 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |
+| 15 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy |
+| 16 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
+| 17 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Easy |
+| 18 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Easy |
+| 19 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Easy |
+| 20 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |
+| 21 | [Stack using Arrays](https://leetcode.com/problems/stack-using-arrays/) | Easy |
+| 22 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Easy |
+| 23 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |
+| 24 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy |
+| 25 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy |
+| 26 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Easy |
+| 27 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Easy |
+| 28 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Easy |
+| 29 | [Level Order Traversal](https://leetcode.com/problems/level-order-traversal/) | Easy |
+| 30 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Easy |
+
+### 🟡 Medium
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Medium |
+| 2 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Medium |
+| 3 | [Daily Temperature](https://leetcode.com/problems/daily-temperature/) | Medium |
+| 4 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium |
+| 5 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |
+| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium |
+| 7 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
+| 8 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Medium |
+| 9 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium |
+| 10 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium |
+| 11 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium |
+| 12 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Medium |
+| 13 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium |
+| 14 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Medium |
+| 15 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |
+| 16 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Medium |
+| 17 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | Medium |
+| 18 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium |
+| 19 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium |
+| 20 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
+| 21 | [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | Medium |
+| 22 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Medium |
+| 23 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium |
+| 24 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |
+| 25 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium |
+| 26 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | Medium |
+| 27 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Medium |
+| 28 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Medium |
+| 29 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Medium |
+| 30 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium |
+
+### 🔴 Hard
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard |
+| 2 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard |
+| 3 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |
+| 4 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | Hard |
+| 5 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | Hard |
+| 6 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard |
+| 7 | [Matrix Chain Multiplication](https://leetcode.com/problems/matrix-chain-multiplication/) | Hard |
+| 8 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Hard |
+| 9 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard |
+| 10 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard |
+| 11 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Hard |
+| 12 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard |
+| 13 | [Find All Possible Combinations](https://leetcode.com/problems/find-all-possible-combinations/) | Hard |
+| 14 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | Hard |
+| 15 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard |
+| 16 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard |
+| 17 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Hard |
+| 18 | [K-th Largest in an Array](https://leetcode.com/problems/k-th-largest-in-an-array/) | Hard |
+| 19 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | Hard |
+| 20 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Hard |
+| 21 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard |
+| 22 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | Hard |
+| 23 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | Hard |
+| 24 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Hard |
+| 25 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | Hard |
+| 26 | [Minimum Stack](https://leetcode.com/problems/minimum-stack/) | Hard |
+| 27 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard |
+| 28 | [Find All Possible Combinations](https://leetcode.com/problems/find-all-possible-combinations/) | Hard |
+| 29 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |
+| 30 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
+
+
+## Queue
+
+### 🟢 Easy
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |
+| 2 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Easy |
+| 3 | [Circular Queue](https://leetcode.com/problems/circular-queue/) | Easy |
+| 4 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Easy |
+| 5 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy |
+| 6 | [Count Primes](https://leetcode.com/problems/count-primes/) | Easy |
+| 7 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy |
+| 8 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy |
+| 9 | [Queue using Two Stacks](https://leetcode.com/problems/queue-using-two-stacks/) | Easy |
+| 10 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy |
+| 11 | [My Circular Queue](https://leetcode.com/problems/my-circular-queue/) | Easy |
+| 12 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Easy |
+| 13 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Easy |
+| 14 | [Matrix Reshape](https://leetcode.com/problems/matrix-reshape/) | Easy |
+| 15 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy |
+| 16 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy |
+| 17 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy |
+| 18 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |
+| 19 | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | Easy |
+| 20 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy |
+
+### 🟡 Medium
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium |
+| 2 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Medium |
+| 3 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Medium |
+| 4 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) | Medium |
+| 5 | [My Queue](https://leetcode.com/problems/my-queue/) | Medium |
+| 6 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium |
+| 7 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Medium |
+| 8 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
+| 9 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | Medium |
+| 10 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium |
+| 11 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium |
+| 12 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium |
+| 13 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |
+| 14 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | Medium |
+| 15 | [Implement Trie](https://leetcode.com/problems/implement-trie/) | Medium |
+| 16 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium |
+| 17 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
+
+### 🔴 Hard
+
+| No. | Problem | Difficulty |
+|-----|---------|------------|
+| 1 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard |
+| 2 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | Hard |
+| 3 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard |
+| 4 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Hard |
+| 5 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard |
+| 6 | [Find All Possible Combinations](https://leetcode.com/problems/find-all-possible-combinations/) | Hard |
+| 7 | [Minimum Stack](https://leetcode.com/problems/minimum-stack/) | Hard |
+| 8 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard |
+| 9 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | Hard |
+| 10 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |
+| 11 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Hard |
+| 12 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard |
+| 13 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Hard |
+| 14 | [Matrix Chain Multiplication](https://leetcode.com/problems/matrix-chain-multiplication/) | Hard |
+| 15 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | Hard |
+| 16 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard |
+| 17 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard |
+| 18 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Hard |
+| 19 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | Hard |
+| 20 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | Hard |
+| 21 | [Queue Reconstruct by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Hard |
+| 22 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Hard |
+| 23 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | Hard |
+| 24 | [Design a Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Hard |
+| 25 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | Hard |
+| 26 | [Design a Stack with Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Hard |
+| 27 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard |
+| 28 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Hard |
+| 29 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard |
+| 30 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Hard |
+
