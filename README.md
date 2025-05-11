@@ -114,7 +114,6 @@
 
 ---
 
-Let me know if you want this saved to a `.md` file or want the same format for other topics like Union-Find, Linked List, etc.
 
 ## Arrays
 
