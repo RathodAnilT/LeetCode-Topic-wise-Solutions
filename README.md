@@ -1,4 +1,4 @@
-# LeetCode-Topic-wise-Solutions.
+# LeetCode-Topic-wise-Problems.
 
 
 ## 🧠 Hashing - 
