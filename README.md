@@ -1,4 +1,4 @@
-# LeetCode-Topic-wise-Problems..
+# LeetCode-Topic-wise-Problems...
 
 
 ## 🧠 Hashing Problems --
@@ -340,7 +340,6 @@
 | 30 | [Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Hard |
 
 
-# LeetCode Topic-wise Solutions
 
 ## **Searching**
 
