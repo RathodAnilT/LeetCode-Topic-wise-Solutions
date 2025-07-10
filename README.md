@@ -343,7 +343,7 @@
 
 ## **Searching**
 
-### **Easy**
+### 🟢 Easy
 | No  | Problem | Difficulty |
 |-----|---------|------------|
 | 1   | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy |
@@ -379,7 +379,7 @@
 
 ---
 
-### **Medium**
+### 🟡 Medium
 | No  | Problem | Difficulty |
 |-----|---------|------------|
 | 1   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium |
@@ -418,7 +418,7 @@
 
 ---
 
-### **Hard**
+### 🔴 Hard
 | No  | Problem | Difficulty |
 |-----|---------|------------|
 | 1   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard |
@@ -455,7 +455,9 @@
 
 ## **Sorting**
 
-### **Easy**
+
+### 🟢 Easy
+
 | No  | Problem | Difficulty |
 |-----|---------|------------|
 | 1   | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Easy |
@@ -491,7 +493,8 @@
 
 ---
 
-### **Medium**
+### 🟡 Medium
+
 | No  | Problem | Difficulty |
 |-----|---------|------------|
 | 1   | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium |
@@ -528,7 +531,8 @@
 
 ---
 
-### **Hard**
+### 🔴 Hard
+
 | No  | Problem | Difficulty |
 |-----|---------|------------|
 | 1   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |
