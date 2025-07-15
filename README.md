@@ -2554,7 +2554,7 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium |
 | 30 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Medium |
 
-## Hard
+### Hard
 
 | NO | Problem | Difficulty |
 |----|---------|------------|
@@ -2588,3 +2588,4 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 28 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard |
 | 29 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Hard |
 | 30 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Hard |
+
