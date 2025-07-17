@@ -1,7 +1,7 @@
 # LeetCode-Topic-wise-Problems...
 
 
-## 🧠 Hashing Problems --
+## 🧠 Hashing Problems ---
 
 ### 🟢 Easy
 
