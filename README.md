@@ -40,7 +40,7 @@
 
 ---
 
-### 🟡 Medium
+### 🟡 Medium.
 
 | NO | Problem | Difficulty |
 |----|---------|------------|
