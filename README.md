@@ -1,4 +1,4 @@
-# LeetCode-Topic-wise-Problems...
+# LeetCode-Topic-wise-Problems..
 
 ## 🧠 Hashing Problems ---
 
@@ -114,7 +114,7 @@
 ---
 
 
-## Arrays
+## Arrays 
 
 ### 🟢 Easy
 
@@ -1225,7 +1225,7 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-## 🌳 Tree
+## 🌳 Trees
 
 ### 🟢 Easy
 | No. | Problem | Difficulty |
