@@ -1,6 +1,6 @@
 # LeetCode-Topic-wise-Problems to Crack any interviews
 
-## 🧠 Hashing Problems --
+## 🧠 Hashing Problems ---
 
 ### 🟢 Easy
 
