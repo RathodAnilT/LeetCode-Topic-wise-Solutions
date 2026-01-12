@@ -1,11 +1,3 @@
-![dsa roadmap](https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/de3a9a26-fafa-4ddf-b276-af74bf8614ac" alt="DSA Roadmap" width="90%">
-</p>
-
-
-
-
 This repository contains **detailed, concept-oriented theory notes and leetcode problems** on **Data Structures and Algorithms (DSA)**.  
 The goal is to explain **every concept clearly**, from **basic to advanced**, with **proper definitions, types, explanations, and complexities**, all in **one single file**.
 
@@ -15,6 +7,11 @@ This is ideal for:
 - Anyone revising core Computer Science fundamentals
 
 ---
+![dsa roadmap](https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de3a9a26-fafa-4ddf-b276-af74bf8614ac" alt="DSA Roadmap" width="90%">
+</p>
+
 
 ## 🎯 Recommended Learning Resources
 
