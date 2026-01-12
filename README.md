@@ -1,4 +1,678 @@
-# LeetCode-Topic-wise-Problems to Crack any interviews
+
+This repository contains **detailed, concept-oriented theory notes and leetcode problems** on **Data Structures and Algorithms (DSA)**.  
+The goal is to explain **every concept clearly**, from **basic to advanced**, with **proper definitions, types, explanations, and complexities**, all in **one single file**.
+
+This is ideal for:
+- Beginners learning DSA from scratch
+- Students preparing for placements and interviews
+- Anyone revising core Computer Science fundamentals
+
+---
+
+## 🎯 Recommended Learning Resources
+
+You may follow any one DSA playlist along with these notes:
+- Striver's A2Z DSA Course/plyalist: [https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=BZHCb3fjckdVri0p ](url)
+- Kunal Kushwaha's DSA Playlist (Java): https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=49OSFypplevYrlU_  
+- Love Babbar's DSA Playlist (C++) :  https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=zwfnuxgTzmerU0KH
+- Apna College / Apni Kaksha  : https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=4lU4XmjLpF-8sIFy
+
+---
+
+# 🧱 PART 1: LINEAR DATA STRUCTURES
+
+---
+
+## 📌 Arrays
+
+### What is an Array?
+
+An **array** is a linear data structure that stores elements of the **same data type** in **contiguous memory locations**.  
+Each element is accessed using an **index**, allowing fast and direct access.
+
+---
+
+### Why Arrays Are Used?
+
+Arrays are widely used because they:
+- Provide **O(1)** access time using indices
+- Use memory efficiently due to contiguous allocation
+- Are easy to traverse, search, and sort
+- Act as a base for many advanced data structures
+
+---
+
+### Types of Arrays
+
+- **One-Dimensional Array** – Stores elements in a single linear sequence  
+- **Multi-Dimensional Array** – Stores data in the form of rows and columns (e.g., matrices)  
+- **Dynamic Array** – Automatically resizes during runtime to handle variable data size  
+
+---
+
+### Array Operations & Complexity
+
+| Operation  | Time Complexity |
+|----------|----------------|
+| Access   | O(1)           |
+| Search   | O(n)           |
+| Insert   | O(n)           |
+| Delete   | O(n)           |
+
+---
+
+## 📌 Linked List
+
+### What is a Linked List?
+
+A **linked list** is a linear data structure where elements are stored in **nodes**, and each node contains:
+- **Data** – the actual value
+- **Pointer** – reference to the next node
+
+Unlike arrays, linked lists do not require contiguous memory.
+
+---
+
+### Why Linked Lists Are Used?
+
+Linked lists are preferred when:
+- Dynamic memory allocation is needed
+- Frequent insertions and deletions are required
+- Memory wastage due to fixed size arrays must be avoided
+
+---
+
+### Types of Linked Lists
+
+- **Singly Linked List** – Each node points only to the next node  
+- **Doubly Linked List** – Each node points to both previous and next nodes  
+- **Circular Linked List** – The last node points back to the first node  
+
+---
+
+### Linked List Complexity
+
+| Operation  | Time Complexity |
+|----------|----------------|
+| Access   | O(n)           |
+| Insert   | O(1)*          |
+| Delete   | O(1)*          |
+
+\* When the node reference is already known.
+
+---
+
+## 📌 Stack
+
+### What is a Stack?
+
+A **stack** is a linear data structure that follows the **Last In, First Out (LIFO)** principle, meaning the most recently added element is removed first.
+
+---
+
+### Stack Operations
+
+- **Push** – Adds an element to the top  
+- **Pop** – Removes the top element  
+- **Peek** – Returns the top element without removing it  
+- **isEmpty** – Checks whether the stack is empty  
+
+---
+
+### Applications of Stack
+
+Stacks are commonly used in:
+- Function call management
+- Expression evaluation
+- Undo/Redo operations
+- Syntax parsing
+
+---
+
+### Stack Complexity
+
+| Operation | Time |
+|---------|------|
+| Push    | O(1) |
+| Pop     | O(1) |
+
+---
+
+## 📌 Queue
+
+### What is a Queue?
+
+A **queue** is a linear data structure that follows the **First In, First Out (FIFO)** principle, where the first inserted element is removed first.
+
+---
+
+### Types of Queues
+
+- **Simple Queue** – Insertion at rear and deletion from front  
+- **Circular Queue** – Last position connects back to the first to optimize space  
+- **Priority Queue** – Elements are processed based on priority  
+- **Deque** – Insertion and deletion are allowed at both ends  
+
+---
+
+### Applications of Queue
+
+Queues are used in:
+- CPU scheduling
+- Breadth First Search (BFS)
+- Request handling systems
+
+---
+
+### Queue Complexity
+
+| Operation | Time |
+|---------|------|
+| Enqueue | O(1) |
+| Dequeue | O(1) |
+
+---
+
+# 🌳 PART 2: NON-LINEAR DATA STRUCTURES
+
+---
+
+## 🌲 Tree Data Structure
+
+### What is a Tree?
+
+A **tree** is a non-linear hierarchical data structure consisting of nodes connected by edges.  
+It starts from a **root node** and branches into child nodes, forming a structure similar to an inverted tree.
+
+There exists **only one path** between any two nodes.
+
+---
+
+### Tree Terminology
+
+- **Root** – Topmost node  
+- **Parent** – Node having children  
+- **Child** – Node derived from parent  
+- **Leaf** – Node with no children  
+- **Height** – Longest path from root to leaf  
+
+---
+
+### Types of Trees
+
+- **Binary Tree** – Each node has at most two children  
+- **Binary Search Tree (BST)** – Left subtree contains smaller values, right contains larger  
+- **Complete Binary Tree** – All levels filled except possibly the last, filled left to right  
+- **Perfect Binary Tree** – All internal nodes have two children and all leaves are at same level  
+- **N-ary Tree** – Each node can have at most N children  
+
+---
+
+### Tree Complexity (Balanced BST)
+
+| Operation | Time |
+|---------|------|
+| Search  | O(log n) |
+| Insert  | O(log n) |
+
+---
+
+## 🌐 Graph Data Structure
+
+### What is a Graph?
+
+A **graph** is a non-linear data structure consisting of a set of **vertices (nodes)** and **edges** that connect pairs of vertices.
+
+Unlike trees, graphs:
+- Do not have a root node
+- Can contain cycles
+- Can have multiple paths between nodes
+
+---
+
+### Types of Graphs
+
+- **Directed Graph** – Edges have a direction  
+- **Undirected Graph** – Edges have no direction  
+- **Weighted Graph** – Edges carry weights or costs  
+- **Unweighted Graph** – All edges have equal weight  
+- **Cyclic Graph** – Contains at least one cycle  
+- **Acyclic Graph** – Does not contain cycles  
+- **Connected Graph** – Every node is reachable from another  
+- **Disconnected Graph** – Some nodes are isolated  
+
+---
+
+### Graph Traversal Techniques
+
+- **Breadth First Search (BFS)** – Explores nodes level by level using a queue  
+- **Depth First Search (DFS)** – Explores deeply before backtracking using recursion or stack  
+
+---
+
+### Important Graph Concepts
+
+- Cycle Detection – Identifying loops in graphs  
+- Topological Sorting – Linear ordering of nodes in a DAG  
+- Minimum Spanning Tree – Connecting all nodes with minimum edge weight  
+- Shortest Path Algorithms – Finding minimum distance between nodes  
+- Strongly Connected Components – Groups of mutually reachable nodes  
+
+---
+
+# ⚙️ PART 3: ALGORITHMS
+
+---
+
+## 🔍 Searching Algorithms
+
+### Linear Search
+
+Linear search checks elements one by one until the target element is found.
+
+- Best Case: O(1)
+- Worst Case: O(n)
+- Space Complexity: O(1)
+
+---
+
+### Binary Search
+
+Binary search works on **sorted data** by repeatedly dividing the search space in half.
+
+- Best Case: O(1)
+- Worst Case: O(log n)
+- Space Complexity: O(1)
+
+---
+
+## 🔃 Sorting Algorithms
+
+### Bubble Sort
+Repeatedly swaps adjacent elements if they are in the wrong order.
+
+- Best Case: O(n)
+- Worst Case: O(n²)
+- Space Complexity: O(1)
+
+---
+
+### Selection Sort
+Selects the minimum element and places it in the correct position.
+
+- Time Complexity: O(n²)
+- Space Complexity: O(1)
+
+---
+
+### Insertion Sort
+Builds the sorted array one element at a time.
+
+- Best Case: O(n)
+- Worst Case: O(n²)
+- Space Complexity: O(1)
+
+---
+
+### Merge Sort
+Divides the array, sorts subarrays, and merges them.
+
+- Time Complexity: O(n log n)
+- Space Complexity: O(n)
+
+---
+
+### Quick Sort
+Partitions the array using a pivot element.
+
+- Average Case: O(n log n)
+- Worst Case: O(n²)
+- Space Complexity: O(n)
+
+---
+
+## 🔁 Recursion
+
+Recursion is a technique where a function calls itself to solve a problem by reducing it to smaller subproblems.
+
+It consists of:
+- **Base Case** – Stops recursion
+- **Recursive Case** – Function calls itself
+- **Call Stack** – Stores function calls
+
+---
+
+## 🔙 Backtracking
+
+Backtracking is a recursive technique that explores all possible solutions and reverses decisions when constraints are violated.
+
+It is used in:
+- Constraint satisfaction problems
+- Decision-based algorithms
+- Optimization problems
+
+---
+
+## 🧠 Dynamic Programming
+
+Dynamic Programming is an optimization technique that reduces time complexity by storing results of overlapping subproblems.
+
+---
+
+### Core Properties of DP
+
+- **Optimal Substructure** – Optimal solution depends on optimal subproblems  
+- **Overlapping Subproblems** – Same subproblems are solved repeatedly  
+
+---
+
+### DP Approaches
+
+- **Memoization (Top-Down)** – Uses recursion with caching  
+- **Tabulation (Bottom-Up)** – Builds solution iteratively from base cases  
+
+---
+
+## 🚀 Final Words
+
+Mastering **DSA theory** builds the foundation for:
+- Writing efficient code
+- Cracking interviews
+- Understanding system design
+
+
+# 📕 Advanced Data Structures & Algorithms – Complete Theory
+
+This document contains **advanced and supporting DSA concepts** that complement the main README.  
+Together, both files form a **complete DSA theory reference** from **basic → advanced**, suitable for interviews, academics, and real-world understanding.
+
+---
+
+# 🧩 MATHEMATICAL & FOUNDATIONAL CONCEPTS
+
+---
+
+## 📌 Time Complexity Analysis
+
+### What is Time Complexity?
+Time complexity describes how the **execution time of an algorithm grows** with respect to input size `n`.
+
+### Common Time Complexities
+- **O(1)** – Constant time, independent of input size  
+- **O(log n)** – Logarithmic growth, common in divide & conquer  
+- **O(n)** – Linear growth  
+- **O(n log n)** – Efficient sorting algorithms  
+- **O(n²)** – Nested loops  
+- **O(2ⁿ)** – Exponential, brute force  
+- **O(n!)** – Factorial, permutation-based algorithms  
+
+---
+
+## 📌 Space Complexity
+
+### What is Space Complexity?
+Space complexity measures the **extra memory** used by an algorithm besides input storage.
+
+### Types
+- **Auxiliary Space** – Extra space used by algorithm  
+- **Input Space** – Space taken by input itself  
+
+---
+
+## 📌 Asymptotic Notations
+
+- **Big-O (O)** – Upper bound (worst case)  
+- **Omega (Ω)** – Lower bound (best case)  
+- **Theta (Θ)** – Tight bound (average/exact growth)  
+
+---
+
+# 🧠 ADVANCED DATA STRUCTURES
+
+---
+
+## 📌 Heap
+
+### What is a Heap?
+A **heap** is a specialized complete binary tree used for **priority-based processing**.
+
+### Types of Heap
+- **Min Heap** – Parent node is smaller than its children  
+- **Max Heap** – Parent node is greater than its children  
+
+### Applications
+- Priority Queue
+- Scheduling
+- Heap Sort
+- Dijkstra’s Algorithm
+
+### Time Complexity
+- Insert: O(log n)
+- Delete: O(log n)
+- Get Min/Max: O(1)
+
+---
+
+## 📌 Hashing & Hash Tables
+
+### What is Hashing?
+Hashing maps data to a fixed-size value using a **hash function**, enabling fast access.
+
+### Hash Table
+A data structure that stores key–value pairs using hashing.
+
+### Collision Handling Techniques
+- **Chaining** – Store multiple elements at same index  
+- **Open Addressing** – Find next empty slot  
+
+### Complexity
+- Average Case: O(1)
+- Worst Case: O(n)
+
+---
+
+## 📌 Trie (Prefix Tree)
+
+### What is a Trie?
+A **Trie** is a tree-based structure used for storing strings efficiently using prefixes.
+
+### Characteristics
+- Each node represents a character
+- Paths represent words
+
+### Applications
+- Autocomplete
+- Spell checking
+- Dictionary implementation
+
+### Complexity
+- Insert/Search: O(length of word)
+
+---
+
+## 📌 Disjoint Set Union (DSU)
+
+### What is DSU?
+DSU is a data structure that keeps track of elements partitioned into **disjoint sets**.
+
+### Operations
+- **Find** – Identify set representative  
+- **Union** – Merge two sets  
+
+### Optimizations
+- Path Compression
+- Union by Rank
+
+### Application
+- Cycle detection
+- Kruskal’s Algorithm
+
+---
+
+# 🌐 ADVANCED GRAPH CONCEPTS
+
+---
+
+## 📌 Shortest Path Algorithms
+
+- **Dijkstra’s Algorithm** – Finds shortest path in weighted graph without negative edges  
+- **Bellman-Ford Algorithm** – Handles negative edge weights  
+- **Floyd-Warshall Algorithm** – All-pairs shortest paths  
+
+---
+
+## 📌 Minimum Spanning Tree (MST)
+
+### What is MST?
+A subset of edges connecting all vertices with **minimum total weight**.
+
+### Algorithms
+- **Prim’s Algorithm** – Grows MST from a starting node  
+- **Kruskal’s Algorithm** – Selects edges by increasing weight  
+
+---
+
+## 📌 Graph Properties
+
+- **Articulation Point** – Node whose removal increases components  
+- **Bridge** – Edge whose removal disconnects graph  
+- **Euler Path** – Path visiting every edge exactly once  
+- **Euler Circuit** – Euler path that starts and ends at same node  
+
+---
+
+# 🧮 ALGORITHMIC PARADIGMS
+
+---
+
+## 📌 Divide and Conquer
+
+### Definition
+Breaks problem into smaller subproblems, solves them independently, and combines results.
+
+### Examples
+- Merge Sort
+- Quick Sort
+- Binary Search
+
+---
+
+## 📌 Greedy Algorithms
+
+### Definition
+Makes the **locally optimal choice** at each step.
+
+### Characteristics
+- Fast
+- Not always optimal globally
+
+### Applications
+- Activity Selection
+- Huffman Encoding
+- MST Algorithms
+
+---
+
+## 📌 Sliding Window Technique
+
+### Definition
+Maintains a window over input to reduce nested loops.
+
+### Types
+- Fixed Window – Constant size  
+- Variable Window – Expands and shrinks dynamically  
+
+---
+
+## 📌 Two Pointer Technique
+
+### Definition
+Uses two indices to traverse data efficiently.
+
+### Common Uses
+- Sorted arrays
+- Pair problems
+- Palindrome checking
+
+---
+
+## 📌 Prefix Sum Technique
+
+### Definition
+Precomputes cumulative sums to answer range queries efficiently.
+
+### Benefit
+Reduces repeated computation.
+
+---
+
+# 🧠 ADVANCED DYNAMIC PROGRAMMING CONCEPTS
+
+---
+
+## 📌 DP State Design
+
+Defines:
+- What to store
+- Dimensions of DP table
+- Transition rules
+
+---
+
+## 📌 Bitmasking in DP
+
+### What is Bitmask DP?
+Uses bits to represent subsets and states efficiently.
+
+### Applications
+- Subset problems
+- Traveling Salesman Problem
+- State compression
+
+---
+
+## 📌 Optimization Techniques
+
+- Space Optimization
+- Rolling Arrays
+- State Compression
+
+---
+
+# 🔐 STRING ALGORITHMS
+
+---
+
+## 📌 String Matching Algorithms
+
+- **Naive String Matching** – Brute force approach  
+- **KMP Algorithm** – Uses prefix table for efficiency  
+- **Rabin-Karp Algorithm** – Uses hashing  
+- **Z Algorithm** – Pattern matching using Z-array  
+
+---
+
+## 📌 Palindrome Techniques
+
+- Expand Around Center
+- Manacher’s Algorithm
+
+---
+
+# 🧠 FINAL NOTES
+
+With this file and the main README combined, you now have:
+
+✔ Complete DSA theory  
+✔ Beginner → Advanced coverage  
+✔ Interview-ready concepts  
+✔ Clean, readable documentation  
+
+
+
+⭐ If this repository helped you, consider starring it and sharing it with others.
+
+# LeetCode-Topic-wise-Problems to Crack any interviews.
 
 ## 🧠 Hashing Problems ---
 
