@@ -1,3 +1,10 @@
+![dsa roadmap](https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de3a9a26-fafa-4ddf-b276-af74bf8614ac" alt="DSA Roadmap" width="90%">
+</p>
+
+
+
 
 This repository contains **detailed, concept-oriented theory notes and leetcode problems** on **Data Structures and Algorithms (DSA)**.  
 The goal is to explain **every concept clearly**, from **basic to advanced**, with **proper definitions, types, explanations, and complexities**, all in **one single file**.
@@ -12,10 +19,20 @@ This is ideal for:
 ## 🎯 Recommended Learning Resources
 
 You may follow any one DSA playlist along with these notes:
-- Striver's A2Z DSA Course/plyalist: https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=MTF_66tGoeIcGMFc
-- Kunal Kushwaha's DSA Playlist (Java): https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=49OSFypplevYrlU_  
-- Love Babbar's DSA Playlist (C++) :  https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=zwfnuxgTzmerU0KH
-- Apna College / Apni Kaksha  : https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=4lU4XmjLpF-8sIFy
+## 📚 Best DSA Playlists (Choose Any One)
+
+1.) **Striver's A2Z DSA Course / Playlist**  
+👉 [Striver's A2Z DSA Course / Playlist](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=MTF_66tGoeIcGMFc)
+
+2.) **Kunal Kushwaha's DSA Playlist (Java)**  
+👉 [Kunal Kushwaha's DSA Playlist](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=49OSFypplevYrlU_)
+
+3.) **Love Babbar's DSA Playlist (C++)**  
+👉 [Love Babbar's DSA Playlist](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=zwfnuxgTzmerU0KH)
+
+4.) **Apna College / Apni Kaksha DSA Playlist (C++ & Java)**  
+👉 [Apna College / Apni Kaksha Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=4lU4XmjLpF-8sIFy)
+
 
 ---
 
