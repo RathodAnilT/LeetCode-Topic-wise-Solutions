@@ -12,7 +12,7 @@ This is ideal for:
 ## 🎯 Recommended Learning Resources
 
 You may follow any one DSA playlist along with these notes:
-- Striver's A2Z DSA Course/plyalist: [https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=BZHCb3fjckdVri0p ](url)
+- Striver's A2Z DSA Course/plyalist: https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=MTF_66tGoeIcGMFc
 - Kunal Kushwaha's DSA Playlist (Java): https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=49OSFypplevYrlU_  
 - Love Babbar's DSA Playlist (C++) :  https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=zwfnuxgTzmerU0KH
 - Apna College / Apni Kaksha  : https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=4lU4XmjLpF-8sIFy
