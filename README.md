@@ -13,7 +13,7 @@ This is ideal for:
 </p>
 
 
-## 🎯 Recommended Learning Resources
+## 🎯 Recommended Learning Resources.
 
 You may follow any one DSA playlist along with these notes:
 ## 📚 Best DSA Playlists (Choose Any One)
