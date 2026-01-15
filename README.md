@@ -2,7 +2,7 @@ This repository contains **detailed, concept-oriented theory notes and leetcode 
 The goal is to explain **every concept clearly**, from **basic to advanced**, with **proper definitions, types, explanations, and complexities**, all in **one single file**.
 
 This is ideal for:-
-- Beginners learning DSA from scratch
+- Beginners learning DSA from scratch.
 - Students preparing for placements and interviews
 - Anyone revising core Computer Science fundamentals
 
