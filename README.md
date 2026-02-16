@@ -46,6 +46,11 @@ Each element is accessed using an **index**, allowing fast and direct access.
 
 ---
 
+- Same data type
+- 0-based indexing
+- O(1) access time
+- Fixed size (static arrays)
+---
 ### Why Arrays Are Used?
 
 Arrays are widely used because they:
