@@ -44,8 +44,6 @@ You may follow any one DSA playlist along with these notes:
 An **array** is a linear data structure that stores elements of the **same data type** in **contiguous memory locations**.  
 Each element is accessed using an **index**, allowing fast and direct access.
 
----
-
 - Same data type
 - 0-based indexing
 - O(1) access time
