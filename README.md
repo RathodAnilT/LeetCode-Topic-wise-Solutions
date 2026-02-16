@@ -180,7 +180,18 @@ int binarySearch(int arr[], int n, int key) {
 | Delete   | O(n)           |
 
 ---
+## Arrays are the foundation of:
 
+- Sliding Window
+- Two Pointers
+- Prefix Sum
+- Sorting
+- Binary Search
+- Dynamic Programming
+
+Master Arrays → Master DSA 🔥
+
+---
 ## 📌 Linked List
 
 ### What is a Linked List?
