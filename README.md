@@ -68,6 +68,107 @@ Arrays are widely used because they:
 - **Dynamic Array** – Automatically resizes during runtime to handle variable data size  
 
 ---
+## 📍 Memory Address Formula
+
+```
+Address = BaseAddress + (index × size_of_data_type)
+```
+
+---
+
+## 🔹 Basic Operations
+
+### ✅ Traversal
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int arr[5] = {10, 20, 30, 40, 50};
+
+    for(int i = 0; i < 5; i++) {
+        cout << arr[i] << " ";
+    }
+
+    return 0;
+}
+```
+
+Time Complexity: O(n)
+
+---
+
+### ✅ Insertion
+
+```cpp
+for(int i = n; i > pos; i--) {
+    arr[i] = arr[i - 1];
+}
+```
+
+Time Complexity: O(n)
+
+---
+
+### ✅ Deletion
+
+```cpp
+for(int i = pos; i < n - 1; i++) {
+    arr[i] = arr[i + 1];
+}
+```
+
+Time Complexity: O(n)
+
+---
+
+## 🔎 Searching
+
+### Linear Search – O(n)
+
+```cpp
+int linearSearch(int arr[], int n, int key) {
+    for(int i = 0; i < n; i++) {
+        if(arr[i] == key)
+            return i;
+    }
+    return -1;
+}
+```
+
+### Binary Search – O(log n)
+
+```cpp
+int binarySearch(int arr[], int n, int key) {
+    int low = 0, high = n - 1;
+
+    while(low <= high) {
+        int mid = low + (high - low) / 2;
+
+        if(arr[mid] == key)
+            return mid;
+        else if(arr[mid] < key)
+            low = mid + 1;
+        else
+            high = mid - 1;
+    }
+    return -1;
+}
+```
+
+---
+
+## 🌍 Real Life Applications
+
+- Student marks storage
+- Monthly sales data
+- Image processing (2D arrays)
+- Game boards
+- Browser history
+- Contact lists
+
+---
 
 ### Array Operations & Complexity
 
