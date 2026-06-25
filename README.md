@@ -192,19 +192,17 @@ Follow this roadmap step by step to build strong problem-solving skills and crac
 
 ---
 
-# Final Milestone
+## Final Milestone
 
-✅ 400-600 Quality Problems Solved
-✅ Strong Pattern Recognition
-✅ Comfortable with Medium Problems
-✅ Able to Solve Most Interview Questions Independently
-✅ Ready for Product-Based Companies and SDE Roles
+- ✅ 400-600 Quality Problems Solved
+- ✅ Strong Pattern Recognition
+- ✅ Comfortable with Medium Problems
+- ✅ Able to Solve Most Interview Questions Independently
+- ✅ Ready for Product-Based Companies and SDE Roles
 
 ## Recommended Progression
 
 Foundation → Patterns → Data Structures → Algorithms → Optimization → Interviews
-
-**Consistency beats intensity. Solve problems daily, revise patterns weekly, and revisit mistakes regularly.**
 
   
 ---
