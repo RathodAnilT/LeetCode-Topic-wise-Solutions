@@ -1,10 +1,19 @@
 `This repository contains **detailed, concept-oriented theory notes and leetcode problems** on **Data Structures and Algorithms (DSA)**.  
 The goal is to explain **every concept clearly**, from **basic to advanced**, with **proper definitions, types, explanations, and complexities**, all in **one single file**.
 
-This is ideal for:-------
-- Beginners learning DSA from scratch.
-- Students preparing for placements and interviews
-- Anyone revising core Computer Science fundamentals
+
+- ## 🎯 Designed For
+
+* Product-Based Companies
+* SDE Internships
+* On-Campus Placements
+* Off-Campus Placements
+* FAANG Preparation
+* Competitive Programming
+* Coding Interviews
+* Online Assessments (OA)
+* DSA Mastery
+
 
 ---
 ![dsa roadmap](https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345)
