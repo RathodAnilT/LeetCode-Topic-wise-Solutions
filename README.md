@@ -32,6 +32,69 @@ You may follow any one DSA playlist along with these notes:
 
 
 ---
+# 📚 DSA Sheets Collection
+
+A curated collection of the most popular DSA sheets used for coding interviews, placements, and competitive programming preparation.
+
+## 🚀 Recommended DSA Sheets
+
+### 1. Striver A2Z Sheet
+
+Comprehensive DSA roadmap covering concepts from beginner to advanced level.
+
+🔗 https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
+---
+
+### 2. Love Babbar 450
+
+One of the most popular interview preparation sheets containing 450 important problems.
+
+🔗 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+
+---
+
+### 3. NeetCode 150
+
+Curated list of 150 frequently asked coding interview questions.
+
+🔗 https://neetcode.io/practice
+
+---
+
+### 4. Fraz DSA Sheet
+
+Structured DSA sheet designed for interview preparation and problem-solving practice.
+
+🔗 https://docs.google.com/spreadsheets/u/0/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview
+
+---
+
+### 5. Apna College 375
+
+A collection of 375 handpicked DSA problems for placement preparation.
+
+🔗 https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview
+
+---
+
+### 6. Arsh DSA Sheet
+
+Popular interview preparation sheet covering company-specific questions and patterns.
+
+🔗 https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit
+
+---
+
+### 7. AlgoPrep 151
+
+A focused list of 151 essential DSA problems for interview preparation.
+
+🔗 https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit
+
+---
+
+
 
 # 🧱 PART 1: LINEAR DATA STRUCTURES
 
