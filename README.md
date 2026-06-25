@@ -14,7 +14,199 @@ The goal is to explain **every concept clearly**, from **basic to advanced**, wi
 * Online Assessments (OA)
 * DSA Mastery
 
+# 🎯 Placement Preparation Roadmap
 
+Follow this roadmap step by step to build strong problem-solving skills and crack coding interviews.
+
+## 📌 Phase 1: Build the Foundation
+
+### Topics
+
+* Arrays
+* Strings
+* Hashing
+* Sorting
+* Basic Mathematics
+
+### Focus
+
+* Learn time and space complexity.
+* Master traversal and iteration techniques.
+* Recognize common patterns like:
+
+  * Prefix Sum
+  * Sliding Window
+  * Two Pointers
+  * Hash Map
+
+🎯 Goal: Solve 80-100 problems confidently.
+
+---
+
+## 📌 Phase 2: Master Linear Data Structures
+
+### Topics
+
+* Linked List
+* Stack
+* Queue
+* Deque
+
+### Focus
+
+* Pointer manipulation
+* Monotonic Stack
+* Next Greater Element
+* Expression Evaluation
+* LRU Cache concepts
+
+🎯 Goal: Solve 50-70 problems and become comfortable with pointer operations.
+
+---
+
+## 📌 Phase 3: Learn Searching and Recursion
+
+### Topics
+
+* Binary Search
+* Recursion
+* Backtracking
+
+### Focus
+
+* Binary Search on Answer
+* Divide and Conquer
+* Subsets
+* Permutations
+* Combination Problems
+
+🎯 Goal: Recognize when brute force can be optimized using recursion or binary search.
+
+---
+
+## 📌 Phase 4: Master Hierarchical Structures
+
+### Topics
+
+* Trees
+* Binary Search Trees
+* Heap
+* Priority Queue
+
+### Focus
+
+* DFS
+* BFS
+* Level Order Traversal
+* Tree DP
+* Lowest Common Ancestor
+* Top K Problems
+
+🎯 Goal: Solve 80+ tree questions without relying on memorization.
+
+---
+
+## 📌 Phase 5: Become Strong in Graphs
+
+### Topics
+
+* Graph Representation
+* DFS
+* BFS
+* Shortest Path Algorithms
+* Minimum Spanning Tree
+
+### Focus
+
+* Connected Components
+* Cycle Detection
+* Topological Sort
+* Union Find (DSU)
+* Dijkstra
+* Kruskal
+
+🎯 Goal: Recognize graph patterns instantly during interviews.
+
+---
+
+## 📌 Phase 6: Conquer Dynamic Programming
+
+### Topics
+
+* 1D DP
+* 2D DP
+* Knapsack
+* LIS
+* LCS
+* DP on Trees
+
+### Focus
+
+* Memoization
+* Tabulation
+* State Transition
+* Space Optimization
+
+🎯 Goal: Learn to derive recurrence relations independently.
+
+---
+
+## 📌 Phase 7: Learn Advanced Patterns
+
+### Topics
+
+* Greedy Algorithms
+* Trie
+* Bit Manipulation
+* Segment Tree
+* Fenwick Tree
+
+### Focus
+
+* Optimization strategies
+* Prefix Matching
+* Range Queries
+* XOR Patterns
+
+🎯 Goal: Prepare for hard interview questions and competitive programming.
+
+---
+
+## 📌 Phase 8: Interview Simulation
+
+### Topics
+
+* Mixed Interview Questions
+* Company Tagged Questions
+* Mock Interviews
+* Online Assessments
+
+### Focus
+
+* Pattern Recognition
+* Communication Skills
+* Writing Optimal Code
+* Explaining Approach Clearly
+
+🎯 Goal: Solve unseen problems using previously learned patterns.
+
+---
+
+# Final Milestone
+
+✅ 400-600 Quality Problems Solved
+✅ Strong Pattern Recognition
+✅ Comfortable with Medium Problems
+✅ Able to Solve Most Interview Questions Independently
+✅ Ready for Product-Based Companies and SDE Roles
+
+## Recommended Progression
+
+Foundation → Patterns → Data Structures → Algorithms → Optimization → Interviews
+
+**Consistency beats intensity. Solve problems daily, revise patterns weekly, and revisit mistakes regularly.**
+
+  
 ---
 ![dsa roadmap](https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345)
 <p align="center">
