@@ -93,8 +93,488 @@ A focused list of 151 essential DSA problems for interview preparation.
 🔗 https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit
 
 ---
+# 🧠 DSA Pattern Recognition Guide
 
+## 📌 Sorted Array
 
+When you see:
+
+* Sorted input array
+* Need to find an element
+* Find first or last occurrence
+* Closest element
+* Lower bound / upper bound
+* Rotation in sorted array
+* Peak element
+* Search space optimization
+
+### Common Patterns
+
+* Binary Search
+* Two Pointers
+* Sliding Window
+* Prefix Sum + Binary Search
+
+---
+
+## 🔍 Binary Search
+
+Use when:
+
+* Search in sorted data
+* Answer lies in a range
+* Minimize or maximize something
+* Find first/last valid answer
+* Optimization problems
+
+### Common Variations
+
+* Lower Bound
+* Upper Bound
+* Binary Search on Answer
+* Search in Rotated Array
+* Peak Element
+* Infinite Array Search
+* Monotonic Predicate Problems
+
+---
+
+## 👉👈 Two Pointers
+
+Use when:
+
+* Array is sorted
+* Need pairs or triplets
+* Subarray problems
+* Palindrome checking
+* Merge operations
+
+### Common Patterns
+
+* Opposite Direction Pointers
+* Same Direction Pointers
+* Fast and Slow Pointer
+* Sliding Window
+* Partitioning
+
+---
+
+## 🔄 Sliding Window
+
+Use when:
+
+* Contiguous subarray/substring
+* Maximum or minimum length
+* Fixed size window
+* Variable size window
+
+### Common Patterns
+
+* Fixed Window
+* Dynamic Window
+* Frequency Counter Window
+* At Most K Distinct
+* Exactly K Distinct
+
+---
+
+## 🎲 Permutations / Subsets
+
+Use when:
+
+* Generate all possibilities
+* Explore combinations
+* Power set generation
+* Order matters
+
+### Common Patterns
+
+* Include / Exclude
+* Bitmasking
+* Recursion Tree
+* Backtracking
+
+---
+
+## 🔙 Backtracking
+
+Use when:
+
+* Need all valid solutions
+* Constraints checking
+* Undo previous choices
+* Decision tree exploration
+
+### Common Problems
+
+* N Queens
+* Sudoku Solver
+* Rat in Maze
+* Word Search
+* Combination Sum
+* Palindrome Partitioning
+
+---
+
+## 🌳 Trees
+
+Use when:
+
+* Hierarchical data
+* Parent-child relationship
+* Recursive structure
+
+### Common Patterns
+
+* DFS Traversal
+* BFS Traversal
+* Diameter
+* Height Calculation
+* LCA
+* Tree DP
+* Path Sum
+* Serialize/Deserialize
+
+---
+
+## 🌲 DFS
+
+Use when:
+
+* Need complete exploration
+* Recursive traversal
+* Components detection
+* Path finding
+
+### Common Patterns
+
+* Recursive DFS
+* Iterative DFS
+* Cycle Detection
+* Connected Components
+* Backtracking DFS
+
+---
+
+## 🌐 BFS
+
+Use when:
+
+* Shortest path in unweighted graph
+* Level order traversal
+* Minimum steps problem
+
+### Common Patterns
+
+* Multi-source BFS
+* Level Order BFS
+* State BFS
+* Grid BFS
+* Shortest Path BFS
+
+---
+
+## 🔗 Graphs
+
+Use when:
+
+* Connections or relationships
+* Cities and roads
+* Dependencies
+* Networks
+
+### Common Patterns
+
+* DFS
+* BFS
+* Union Find
+* Dijkstra
+* Bellman Ford
+* Floyd Warshall
+* MST
+* Topological Sort
+
+---
+
+## 🔄 Union Find (DSU)
+
+Use when:
+
+* Dynamic connectivity
+* Grouping components
+* Detect cycles
+* Network merging
+
+### Common Patterns
+
+* Union by Rank
+* Path Compression
+* Connected Components
+* Kruskal MST
+
+---
+
+## 📚 Topological Sort
+
+Use when:
+
+* Dependency ordering
+* Course schedule problems
+* Directed acyclic graph
+
+### Common Patterns
+
+* Kahn's Algorithm
+* DFS Topological Sort
+
+---
+
+## 🔗 Linked List
+
+Use when:
+
+* Dynamic memory structure
+* Frequent insertion/deletion
+
+### Common Patterns
+
+* Reverse Linked List
+* Merge Lists
+* Detect Cycle
+* Middle Node
+* Reorder List
+* Intersection Point
+
+---
+
+## 🐢🐇 Slow Fast Pointer
+
+Use when:
+
+* Cycle detection
+* Middle element
+* Palindrome linked list
+
+### Common Problems
+
+* Floyd Cycle Detection
+* Find Middle Node
+* Happy Number
+
+---
+
+## 📈 Maximum / Minimum Problems
+
+Use when:
+
+* Largest or smallest value
+* Optimization problems
+
+### Common Patterns
+
+* Kadane Algorithm
+* Sliding Window
+* Binary Search on Answer
+* Heap
+* Monotonic Stack
+
+---
+
+## 🧮 Dynamic Programming
+
+Use when:
+
+* Overlapping subproblems
+* Optimal substructure
+* Minimize or maximize result
+
+### Common Patterns
+
+* 1D DP
+* 2D DP
+* Knapsack
+* LIS
+* LCS
+* DP on Trees
+* Bitmask DP
+* Digit DP
+* State Machine DP
+
+---
+
+## ⚡ Kadane Algorithm
+
+Use when:
+
+* Maximum subarray sum
+* Contiguous sequence optimization
+
+### Variations
+
+* Circular Kadane
+* Maximum Product Subarray
+
+---
+
+## 🏆 Top K Problems
+
+Use when:
+
+* K largest elements
+* K smallest elements
+* Frequent elements
+
+### Common Patterns
+
+* Heap
+* Quick Select
+* Bucket Sort
+
+---
+
+## 🗑️ Heap
+
+Use when:
+
+* Priority based retrieval
+* Running median
+* Scheduling problems
+
+### Common Problems
+
+* Kth Largest
+* Merge K Lists
+* Top K Frequent
+* Task Scheduler
+
+---
+
+## ⚡ Quick Select
+
+Use when:
+
+* Kth smallest or largest
+* Avoid full sorting
+
+### Time Complexity
+
+* Average: O(N)
+* Worst: O(N²)
+
+---
+
+## 🔤 String Matching
+
+Use when:
+
+* Pattern search
+* Prefix matching
+* Substring problems
+
+### Common Algorithms
+
+* KMP
+* Rabin Karp
+* Z Algorithm
+* Rolling Hash
+
+---
+
+## 🗂️ Hash Map
+
+Use when:
+
+* Frequency counting
+* Lookup optimization
+* Duplicate detection
+
+### Common Patterns
+
+* Frequency Map
+* Prefix Sum + Hash Map
+* Grouping
+* Caching
+
+---
+
+## 🌲 Trie
+
+Use when:
+
+* Prefix search
+* Dictionary problems
+* Auto complete
+
+### Common Problems
+
+* Word Dictionary
+* Search Suggestions
+* Longest Prefix Match
+
+---
+
+## 🔎 KMP
+
+Use when:
+
+* Efficient substring search
+* Repeated prefix patterns
+
+### Key Concept
+
+* LPS Array (Longest Prefix Suffix)
+
+---
+
+## 📚 Additional Important Patterns
+
+### 📦 Prefix Sum
+
+* Range Sum Query
+* Subarray Sum Equals K
+* Difference Array
+
+### 📊 Monotonic Stack
+
+* Next Greater Element
+* Histogram Problems
+* Stock Span
+
+### 📉 Monotonic Queue
+
+* Sliding Window Maximum
+* Optimization Problems
+
+### 🎯 Greedy
+
+* Activity Selection
+* Interval Scheduling
+* Huffman Coding
+
+### 🛣️ Shortest Path
+
+* Dijkstra
+* Bellman Ford
+* Floyd Warshall
+
+### 🌉 Minimum Spanning Tree
+
+* Kruskal Algorithm
+* Prim Algorithm
+
+### 🎭 Bit Manipulation
+
+* XOR Problems
+* Subset Generation
+* Single Number Problems
+
+### 🧩 Divide and Conquer
+
+* Merge Sort
+* Quick Sort
+* Closest Pair Problems
+
+---
 
 # 🧱 PART 1: LINEAR DATA STRUCTURES
 
