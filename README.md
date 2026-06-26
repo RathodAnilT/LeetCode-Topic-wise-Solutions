@@ -2,7 +2,7 @@
 The goal is to explain **every concept clearly**, from **basic to advanced**, with **proper definitions, types, explanations, and complexities**, all in **one single file**.
 
 
-- ## 🎯 Designed For
+- ## 🎯 Designed For..
 
 * Product-Based Companies
 * SDE Internships
