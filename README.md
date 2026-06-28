@@ -18,50 +18,7 @@ Product-Based Companies · SDE Internships · Campus & Off-Campus Placements · 
 
 ---
 
-<a id="table-of-contents"></a>
 
-## 📑 Table of Contents
-
-| No. | Chapter | Section |
-|:---:|---------|---------|
-| 1 | [Placement Preparation Roadmap](#ch-01) | Theory |
-| 2 | [Learning Resources & Playlists](#ch-02) | Resources |
-| 3 | [DSA Sheets Collection](#ch-03) | Resources |
-| 4 | [DSA Pattern Recognition Guide](#ch-04) | Theory |
-| 5 | [Part 1 — Linear Data Structures](#ch-05) | Theory |
-| 6 | [Part 2 — Non-Linear Data Structures](#ch-06) | Theory |
-| 7 | [Part 3 — Algorithms](#ch-07) | Theory |
-| 8 | [Advanced DSA Theory](#ch-08) | Theory |
-| 9 | [LeetCode Problems (All Topics)](#ch-09) | Problems |
-| 10 | [Hashing Problems](#ch-10) | Problems |
-| 11 | [Arrays Problems](#ch-11) | Problems |
-| 12 | [Strings Problems](#ch-12) | Problems |
-| 13 | [Searching Problems](#ch-13) | Problems |
-| 14 | [Sorting Problems](#ch-14) | Problems |
-| 15 | [Sorting Techniques](#ch-15) | Problems |
-| 16 | [Backtracking Problems](#ch-16) | Problems |
-| 17 | [Recursion Problems](#ch-17) | Problems |
-| 18 | [Stack Problems](#ch-18) | Problems |
-| 19 | [Queue Problems](#ch-19) | Problems |
-| 20 | [Linked List Problems](#ch-20) | Problems |
-| 21 | [Trees Problems](#ch-21) | Problems |
-| 22 | [BST Problems](#ch-22) | Problems |
-| 23 | [Heap Problems](#ch-23) | Problems |
-| 24 | [Graph Problems](#ch-24) | Problems |
-| 25 | [Greedy Problems](#ch-25) | Problems |
-| 26 | [Dynamic Programming](#ch-26) | Problems |
-| 27 | [Sliding Window](#ch-27) | Problems |
-| 28 | [Sliding Window Problems](#ch-28) | Problems |
-| 29 | [Two Pointer](#ch-29) | Problems |
-| 30 | [Two Pointer Problems](#ch-30) | Problems |
-| 31 | [Prefix Sum Problems](#ch-31) | Problems |
-| 32 | [Bit Manipulation](#ch-32) | Problems |
-| 33 | [Trie Problems](#ch-33) | Problems |
-| 34 | [Segment Tree Problems](#ch-34) | Problems |
-
----
-
-<a id="ch-01"></a>
 
 <details>
 <summary><b>1. Placement Preparation Roadmap</b> — Click to Expand ▼</summary>
