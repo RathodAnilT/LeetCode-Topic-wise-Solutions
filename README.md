@@ -14,7 +14,12 @@ The goal is to explain **every concept clearly**, from **basic to advanced**, wi
 
 ## 🎯 Designed For
 
-Product-Based Companies · SDE Internships · Campus & Off-Campus Placements · FAANG Prep · Coding Interviews · DSA Mastery
+- Product-Based Companies
+- SDE Internships 
+- Campus & Off-Campus Placements
+- FAANG Prep
+- Coding Interviews
+- DSA Mastery
 
 ---
 
