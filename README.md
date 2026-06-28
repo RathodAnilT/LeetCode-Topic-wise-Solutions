@@ -1,8 +1,4 @@
 
-
-
-[![📘🚀 OPEN DSA ROADMAP](https://img.shields.io/badge/📘🚀%20OPEN%20DSA%20ROADMAP-CLICK%20HERE-blue?style=for-the-badge)](#)
-
 <details>
 <summary>📘🚀 DSA Mastery Roadmap + Theory + Problems (Click to Expand)</summary>
 
@@ -191,6 +187,9 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
 
 ---
 
+<details>
+  <summary>📘 Click to Expand DSA Roadmap + Learning Resources</summary>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345" alt="DSA Roadmap" width="90%">
 </p>
@@ -199,10 +198,12 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
   <img src="https://github.com/user-attachments/assets/de3a9a26-fafa-4ddf-b276-af74bf8614ac" alt="DSA Roadmap" width="90%">
 </p>
 
+---
 
 ## 🎯 Recommended Learning Resources.
 
 You may follow any one DSA playlist along with these notes:
+
 ## 📚 Best DSA Playlists (Choose Any One)
 
 1.) **Striver's A2Z DSA Course / Playlist**  
@@ -217,8 +218,13 @@ You may follow any one DSA playlist along with these notes:
 4.) **Apna College / Apni Kaksha DSA Playlist (C++ & Java)**  
 👉 [Apna College / Apni Kaksha Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=4lU4XmjLpF-8sIFy)
 
+</details>
+
 
 ---
+<details>
+  <summary>📚 Click to Expand DSA Sheets Collection</summary>
+
 # 📚 DSA Sheets Collection
 
 A curated collection of the most popular DSA sheets used for coding interviews, placements, and competitive programming preparation.
@@ -280,6 +286,13 @@ A focused list of 151 essential DSA problems for interview preparation.
 🔗 https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit
 
 ---
+
+</details>
+
+---
+<details>
+  <summary>🧠 Click to Expand DSA Pattern Recognition Guide</summary>
+
 # 🧠 DSA Pattern Recognition Guide
 
 ## 📌 Sorted Array
@@ -761,7 +774,14 @@ Use when:
 * Quick Sort
 * Closest Pair Problems
 
+</details>
+
 ---
+
+
+<details>
+  <summary>🧱 Click to Expand Part 1: Linear Data Structures</summary>
+  
 
 # 🧱 PART 1: LINEAR DATA STRUCTURES
 
@@ -778,7 +798,9 @@ Each element is accessed using an **index**, allowing fast and direct access.
 - 0-based indexing
 - O(1) access time
 - Fixed size (static arrays)
+
 ---
+
 ### Why Arrays Are Used?
 
 Arrays are widely used because they:
@@ -796,241 +818,18 @@ Arrays are widely used because they:
 - **Dynamic Array** – Automatically resizes during runtime to handle variable data size  
 
 ---
+
 ## 📍 Memory Address Formula
 
-```
-Address = BaseAddress + (index × size_of_data_type)
-```
 
 ---
+<details>
+  <summary>🧱 Click to Expand Part 1: Linear Data Structures</summary>
+</details>
 
-## 🔹 Basic Operations
 
-### ✅ Traversal
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    int arr[5] = {10, 20, 30, 40, 50};
-
-    for(int i = 0; i < 5; i++) {
-        cout << arr[i] << " ";
-    }
-
-    return 0;
-}
-```
-
-Time Complexity: O(n)
-
----
-
-### ✅ Insertion
-
-```cpp
-for(int i = n; i > pos; i--) {
-    arr[i] = arr[i - 1];
-}
-```
-
-Time Complexity: O(n)
-
----
-
-### ✅ Deletion
-
-```cpp
-for(int i = pos; i < n - 1; i++) {
-    arr[i] = arr[i + 1];
-}
-```
-
-Time Complexity: O(n)
-
----
-
-## 🔎 Searching
-
-### Linear Search – O(n)
-
-```cpp
-int linearSearch(int arr[], int n, int key) {
-    for(int i = 0; i < n; i++) {
-        if(arr[i] == key)
-            return i;
-    }
-    return -1;
-}
-```
-
-### Binary Search – O(log n)
-
-```cpp
-int binarySearch(int arr[], int n, int key) {
-    int low = 0, high = n - 1;
-
-    while(low <= high) {
-        int mid = low + (high - low) / 2;
-
-        if(arr[mid] == key)
-            return mid;
-        else if(arr[mid] < key)
-            low = mid + 1;
-        else
-            high = mid - 1;
-    }
-    return -1;
-}
-```
-
----
-
-## 🌍 Real Life Applications
-
-- Student marks storage
-- Monthly sales data
-- Image processing (2D arrays)
-- Game boards
-- Browser history
-- Contact lists
-
----
-
-### Array Operations & Complexity
-
-| Operation  | Time Complexity |
-|----------|----------------|
-| Access   | O(1)           |
-| Search   | O(n)           |
-| Insert   | O(n)           |
-| Delete   | O(n)           |
-
----
-## Arrays are the foundation of:
-
-- Sliding Window
-- Two Pointers
-- Prefix Sum
-- Sorting
-- Binary Search
-- Dynamic Programming
-
-Master Arrays → Master DSA 🔥
-
----
-## 📌 Linked List
-
-### What is a Linked List?
-
-A **linked list** is a linear data structure where elements are stored in **nodes**, and each node contains:
-- **Data** – the actual value
-- **Pointer** – reference to the next node
-
-Unlike arrays, linked lists do not require contiguous memory.
-
----
-
-### Why Linked Lists Are Used?
-
-Linked lists are preferred when:
-- Dynamic memory allocation is needed
-- Frequent insertions and deletions are required
-- Memory wastage due to fixed size arrays must be avoided
-
----
-
-### Types of Linked Lists
-
-- **Singly Linked List** – Each node points only to the next node  
-- **Doubly Linked List** – Each node points to both previous and next nodes  
-- **Circular Linked List** – The last node points back to the first node  
-
----
-
-### Linked List Complexity
-
-| Operation  | Time Complexity |
-|----------|----------------|
-| Access   | O(n)           |
-| Insert   | O(1)*          |
-| Delete   | O(1)*          |
-
-\* When the node reference is already known.
-
----
-
-## 📌 Stack
-
-### What is a Stack?
-
-A **stack** is a linear data structure that follows the **Last In, First Out (LIFO)** principle, meaning the most recently added element is removed first.
-
----
-
-### Stack Operations
-
-- **Push** – Adds an element to the top  
-- **Pop** – Removes the top element  
-- **Peek** – Returns the top element without removing it  
-- **isEmpty** – Checks whether the stack is empty  
-
----
-
-### Applications of Stack
-
-Stacks are commonly used in:
-- Function call management
-- Expression evaluation
-- Undo/Redo operations
-- Syntax parsing
-
----
-
-### Stack Complexity
-
-| Operation | Time |
-|---------|------|
-| Push    | O(1) |
-| Pop     | O(1) |
-
----
-
-## 📌 Queue
-
-### What is a Queue?
-
-A **queue** is a linear data structure that follows the **First In, First Out (FIFO)** principle, where the first inserted element is removed first.
-
----
-
-### Types of Queues
-
-- **Simple Queue** – Insertion at rear and deletion from front  
-- **Circular Queue** – Last position connects back to the first to optimize space  
-- **Priority Queue** – Elements are processed based on priority  
-- **Deque** – Insertion and deletion are allowed at both ends  
-
----
-
-### Applications of Queue
-
-Queues are used in:
-- CPU scheduling
-- Breadth First Search (BFS)
-- Request handling systems
-
----
-
-### Queue Complexity
-
-| Operation | Time |
-|---------|------|
-| Enqueue | O(1) |
-| Dequeue | O(1) |
-
----
+<details>
+  <summary>🌳 Click to Expand Part 2: Non-Linear Data Structures</summary>
 
 # 🌳 PART 2: NON-LINEAR DATA STRUCTURES
 
@@ -1117,7 +916,13 @@ Unlike trees, graphs:
 - Shortest Path Algorithms – Finding minimum distance between nodes  
 - Strongly Connected Components – Groups of mutually reachable nodes  
 
+</details>
+
 ---
+
+
+<details>
+  <summary>⚙️ Click to Expand Part 3: Algorithms</summary>
 
 # ⚙️ PART 3: ALGORITHMS
 
@@ -1250,20 +1055,22 @@ Together, both files form a **complete DSA theory reference** from **basic → a
 # 🧩 MATHEMATICAL & FOUNDATIONAL CONCEPTS
 
 ---
+<details>
+    <summary>📚Time Complexity Analysis /summary>
 
-## 📌 Time Complexity Analysis
+    ## 📌 Time Complexity Analysis
 
 ### What is Time Complexity?
 Time complexity describes how the **execution time of an algorithm grows** with respect to input size `n`.
 
 ### Common Time Complexities
-- **O(1)** – Constant time, independent of input size  
-- **O(log n)** – Logarithmic growth, common in divide & conquer  
+- **O(1)** – Constant time  
+- **O(log n)** – Logarithmic growth  
 - **O(n)** – Linear growth  
-- **O(n log n)** – Efficient sorting algorithms  
+- **O(n log n)** – Efficient sorting  
 - **O(n²)** – Nested loops  
-- **O(2ⁿ)** – Exponential, brute force  
-- **O(n!)** – Factorial, permutation-based algorithms  
+- **O(2ⁿ)** – Exponential  
+- **O(n!)** – Factorial  
 
 ---
 
@@ -1280,9 +1087,12 @@ Space complexity measures the **extra memory** used by an algorithm besides inpu
 
 ## 📌 Asymptotic Notations
 
-- **Big-O (O)** – Upper bound (worst case)  
-- **Omega (Ω)** – Lower bound (best case)  
-- **Theta (Θ)** – Tight bound (average/exact growth)  
+- **Big-O (O)** – Upper bound  
+- **Omega (Ω)** – Lower bound  
+- **Theta (Θ)** – Tight bound  
+
+ 
+</details>     
 
 ---
 
@@ -1296,75 +1106,61 @@ Space complexity measures the **extra memory** used by an algorithm besides inpu
 A **heap** is a specialized complete binary tree used for **priority-based processing**.
 
 ### Types of Heap
-- **Min Heap** – Parent node is smaller than its children  
-- **Max Heap** – Parent node is greater than its children  
+- **Min Heap** – Parent node is smaller than children  
+- **Max Heap** – Parent node is greater than children  
 
 ### Applications
-- Priority Queue
-- Scheduling
-- Heap Sort
-- Dijkstra’s Algorithm
+- Priority Queue  
+- Scheduling  
+- Heap Sort  
+- Dijkstra’s Algorithm  
 
-### Time Complexity
-- Insert: O(log n)
-- Delete: O(log n)
-- Get Min/Max: O(1)
+### Complexity
+- Insert: O(log n)  
+- Delete: O(log n)  
+- Get Min/Max: O(1)  
 
 ---
 
 ## 📌 Hashing & Hash Tables
 
 ### What is Hashing?
-Hashing maps data to a fixed-size value using a **hash function**, enabling fast access.
+Hashing maps data to a fixed-size value using a **hash function**.
 
-### Hash Table
-A data structure that stores key–value pairs using hashing.
-
-### Collision Handling Techniques
-- **Chaining** – Store multiple elements at same index  
-- **Open Addressing** – Find next empty slot  
+### Collision Handling
+- Chaining  
+- Open Addressing  
 
 ### Complexity
-- Average Case: O(1)
-- Worst Case: O(n)
+- Average: O(1)  
+- Worst: O(n)  
 
 ---
 
 ## 📌 Trie (Prefix Tree)
 
 ### What is a Trie?
-A **Trie** is a tree-based structure used for storing strings efficiently using prefixes.
-
-### Characteristics
-- Each node represents a character
-- Paths represent words
+A tree-based structure for storing strings using prefixes.
 
 ### Applications
-- Autocomplete
-- Spell checking
-- Dictionary implementation
+- Autocomplete  
+- Dictionary  
+- Spell Check  
 
 ### Complexity
-- Insert/Search: O(length of word)
+- Insert/Search: O(length of word)  
 
 ---
 
 ## 📌 Disjoint Set Union (DSU)
 
-### What is DSU?
-DSU is a data structure that keeps track of elements partitioned into **disjoint sets**.
-
 ### Operations
-- **Find** – Identify set representative  
-- **Union** – Merge two sets  
+- Find  
+- Union  
 
 ### Optimizations
-- Path Compression
-- Union by Rank
-
-### Application
-- Cycle detection
-- Kruskal’s Algorithm
+- Path Compression  
+- Union by Rank  
 
 ---
 
@@ -1373,30 +1169,15 @@ DSU is a data structure that keeps track of elements partitioned into **disjoint
 ---
 
 ## 📌 Shortest Path Algorithms
-
-- **Dijkstra’s Algorithm** – Finds shortest path in weighted graph without negative edges  
-- **Bellman-Ford Algorithm** – Handles negative edge weights  
-- **Floyd-Warshall Algorithm** – All-pairs shortest paths  
-
----
-
-## 📌 Minimum Spanning Tree (MST)
-
-### What is MST?
-A subset of edges connecting all vertices with **minimum total weight**.
-
-### Algorithms
-- **Prim’s Algorithm** – Grows MST from a starting node  
-- **Kruskal’s Algorithm** – Selects edges by increasing weight  
+- Dijkstra  
+- Bellman-Ford  
+- Floyd-Warshall  
 
 ---
 
-## 📌 Graph Properties
-
-- **Articulation Point** – Node whose removal increases components  
-- **Bridge** – Edge whose removal disconnects graph  
-- **Euler Path** – Path visiting every edge exactly once  
-- **Euler Circuit** – Euler path that starts and ends at same node  
+## 📌 Minimum Spanning Tree
+- Prim’s Algorithm  
+- Kruskal’s Algorithm  
 
 ---
 
@@ -1405,127 +1186,60 @@ A subset of edges connecting all vertices with **minimum total weight**.
 ---
 
 ## 📌 Divide and Conquer
-
-### Definition
-Breaks problem into smaller subproblems, solves them independently, and combines results.
-
-### Examples
-- Merge Sort
-- Quick Sort
-- Binary Search
+- Merge Sort  
+- Quick Sort  
+- Binary Search  
 
 ---
 
-## 📌 Greedy Algorithms
-
-### Definition
-Makes the **locally optimal choice** at each step.
-
-### Characteristics
-- Fast
-- Not always optimal globally
-
-### Applications
-- Activity Selection
-- Huffman Encoding
-- MST Algorithms
+## 📌 Greedy
+- Activity Selection  
+- Huffman Coding  
 
 ---
 
-## 📌 Sliding Window Technique
-
-### Definition
-Maintains a window over input to reduce nested loops.
-
-### Types
-- Fixed Window – Constant size  
-- Variable Window – Expands and shrinks dynamically  
+## 📌 Sliding Window
+- Fixed Window  
+- Variable Window  
 
 ---
 
-## 📌 Two Pointer Technique
-
-### Definition
-Uses two indices to traverse data efficiently.
-
-### Common Uses
-- Sorted arrays
-- Pair problems
-- Palindrome checking
+## 📌 Two Pointers
+- Pair problems  
+- Sorted arrays  
 
 ---
 
-## 📌 Prefix Sum Technique
-
-### Definition
-Precomputes cumulative sums to answer range queries efficiently.
-
-### Benefit
-Reduces repeated computation.
+## 📌 Prefix Sum
+- Range queries  
 
 ---
 
-# 🧠 ADVANCED DYNAMIC PROGRAMMING CONCEPTS
+# 🧠 ADVANCED DP
 
----
-
-## 📌 DP State Design
-
-Defines:
-- What to store
-- Dimensions of DP table
-- Transition rules
-
----
-
-## 📌 Bitmasking in DP
-
-### What is Bitmask DP?
-Uses bits to represent subsets and states efficiently.
-
-### Applications
-- Subset problems
-- Traveling Salesman Problem
-- State compression
-
----
-
-## 📌 Optimization Techniques
-
-- Space Optimization
-- Rolling Arrays
-- State Compression
+- State design  
+- Bitmask DP  
+- Space optimization  
 
 ---
 
 # 🔐 STRING ALGORITHMS
 
----
-
-## 📌 String Matching Algorithms
-
-- **Naive String Matching** – Brute force approach  
-- **KMP Algorithm** – Uses prefix table for efficiency  
-- **Rabin-Karp Algorithm** – Uses hashing  
-- **Z Algorithm** – Pattern matching using Z-array  
-
----
-
-## 📌 Palindrome Techniques
-
-- Expand Around Center
-- Manacher’s Algorithm
+- KMP  
+- Rabin-Karp  
+- Z Algorithm  
+- Manacher’s Algorithm  
 
 ---
 
 # 🧠 FINAL NOTES
 
-With this file and the main README combined, you now have:
+✔ Complete DSA theory coverage  
+✔ Beginner → Advanced concepts  
+✔ Interview-ready preparation  
+✔ Clean structured learning path  
 
-✔ Complete DSA theory  
-✔ Beginner → Advanced coverage  
-✔ Interview-ready concepts  
-✔ Clean, readable documentation  
+</details>
 
 
 
