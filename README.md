@@ -36,12 +36,8 @@ The goal is to explain **every concept clearly**, from **basic to advanced**, wi
 
 # 📑 TABLE OF CONTENTS
 
-<img src="https://img.shields.io/badge/📖_Reference_Book-Click_any_§_chapter_to_jump-6C63FF?style=for-the-badge" alt="TOC"/>
+</div
 
-</div>
-
-> 📌 **How to navigate:** Click any **§ Chapter** link → jump to that section → expand it.  
-> Use **⬆️ Back to Contents** at the end of each chapter to return here.
 
 ---
 
