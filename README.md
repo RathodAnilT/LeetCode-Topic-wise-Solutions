@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=150&section=header&text=LeetCode%20Topic-wise%20Solutions&fontSize=40&fontColor=fff&animation=twinkling" alt="Header Banner" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=DSA+Mastery+Roadmap+%F0%9F%9A%80;Theory+%2B+Problems+%F0%9F%93%9A;Crack+Any+Interview+%F0%9F%92%BC" alt="Typing Animation" />
+
+<br/>
+
+</div>
+
 # 📚 LeetCode Topic-wise Solutions
 
 > **Complete DSA Reference** — Roadmap · Theory · 400+ LeetCode Problems  
