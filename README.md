@@ -1,5 +1,10 @@
+
+
+
+[![📘🚀 OPEN DSA ROADMAP](https://img.shields.io/badge/📘🚀%20OPEN%20DSA%20ROADMAP-CLICK%20HERE-blue?style=for-the-badge)](#)
+
 <details>
-<summary>📘 DSA Mastery Roadmap + Theory + Problems (Click to Expand)</summary>
+<summary>📘🚀 DSA Mastery Roadmap + Theory + Problems (Click to Expand)</summary>
 
 ---
 
@@ -184,9 +189,12 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
 
 </details>
 
-  
 ---
-![dsa roadmap](https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345" alt="DSA Roadmap" width="90%">
+</p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/de3a9a26-fafa-4ddf-b276-af74bf8614ac" alt="DSA Roadmap" width="90%">
 </p>
