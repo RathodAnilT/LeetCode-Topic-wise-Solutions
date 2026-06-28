@@ -1,52 +1,32 @@
 <div align="center">
 
-# 🎯 LeetCode Topic-wise Solutions
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=180&section=header&text=LeetCode%20Topic-wise%20Solutions&fontSize=48&fontColor=fff&animation=twinkling" alt="Header Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=DSA+Mastery+Roadmap+%F0%9F%9A%80;Theory+%2B+Problems+%F0%9F%93%9A;Crack+Any+Interview+%F0%9F%92%BC;Topic-wise+LeetCode+Solutions+%E2%9C%85" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub stars](https://img.shields.io/github/stars/RathodAnilT/LeetCode-Topic-wise-Solutions?style=for-the-badge&logo=github&color=yellow&label=Stars)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Topic%20Wise-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![DSA](https://img.shields.io/badge/DSA-Complete%20Guide-blue?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
-[![Interview](https://img.shields.io/badge/Interview-Ready-green?style=for-the-badge&logo=target)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
-[![Placement](https://img.shields.io/badge/Placement-Preparation-red?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=DSA+Mastery+Roadmap+%F0%9F%9A%80;Theory+%2B+Problems+%F0%9F%93%9A;Crack+Any+Interview+%F0%9F%92%BC;400%2B+LeetCode+Problems+%E2%9C%85" alt="Typing SVG" />
 
 <br/>
 
-### ⬇️ Quick Navigation — Jump to Any Section
+[![GitHub Stars](https://img.shields.io/github/stars/RathodAnilT/LeetCode-Topic-wise-Solutions?style=for-the-badge&logo=github&color=yellow&label=Stars)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Topic_Wise-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![DSA](https://img.shields.io/badge/DSA-Complete_Guide-6C63FF?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+[![Interview](https://img.shields.io/badge/Interview-Ready-2ECC71?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+[![Placement](https://img.shields.io/badge/Placement-Prep-E74C3C?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
 
-| ➡️ Section | 🔗 Link |
-|:-----------|:--------|
-| 📘 About & Roadmap | [Go ➡️](#-placement-preparation-roadmap) |
-| 📚 Learning Resources | [Go ➡️](#-recommended-learning-resources) |
-| 📋 DSA Sheets | [Go ➡️](#-dsa-sheets-collection) |
-| 🧠 Pattern Guide | [Go ➡️](#-dsa-pattern-recognition-guide) |
-| 🧱 Part 1 — Linear DS | [Go ➡️](#-part-1-linear-data-structures) |
-| 🌳 Part 2 — Non-Linear DS | [Go ➡️](#-part-2-non-linear-data-structures) |
-| ⚙️ Part 3 — Algorithms | [Go ➡️](#-part-3-algorithms) |
-| 📕 Advanced Theory | [Go ➡️](#-advanced-data-structures--algorithms--complete-theory) |
-| 💻 LeetCode Problems | [Go ➡️](#leetcode-topic-wise-problems-to-crack-any-interviews) |
+<br/>
+
+### ⬇️ Quick Navigation — Click Any Button Below ⬇️
+
+| | | |
+|:---:|:---:|:---:|
+| <a href="#-placement-preparation-roadmap"><img src="https://img.shields.io/badge/➡️_ROADMAP-8_Phases-6C63FF?style=for-the-badge" alt="Roadmap"/></a> | <a href="#-recommended-learning-resources"><img src="https://img.shields.io/badge/➡️_RESOURCES-DSA_Playlists-3498DB?style=for-the-badge&logo=youtube&logoColor=white" alt="Resources"/></a> | <a href="#-dsa-sheets-collection"><img src="https://img.shields.io/badge/➡️_SHEETS-7+_Collections-FF6B6B?style=for-the-badge" alt="Sheets"/></a> |
+| <a href="#-dsa-pattern-recognition-guide"><img src="https://img.shields.io/badge/➡️_PATTERNS-DSA_Guide-4ECDC4?style=for-the-badge" alt="Patterns"/></a> | <a href="#-part-1-linear-data-structures"><img src="https://img.shields.io/badge/➡️_PART_1-Linear_DS-6C63FF?style=for-the-badge" alt="Part 1"/></a> | <a href="#-part-2-non-linear-data-structures"><img src="https://img.shields.io/badge/➡️_PART_2-Non_Linear_DS-2ECC71?style=for-the-badge" alt="Part 2"/></a> |
+| <a href="#-part-3-algorithms"><img src="https://img.shields.io/badge/➡️_PART_3-Algorithms-E74C3C?style=for-the-badge" alt="Part 3"/></a> | <a href="#-advanced-data-structures--algorithms--complete-theory"><img src="https://img.shields.io/badge/➡️_ADVANCED-DSA_Theory-9B59B6?style=for-the-badge" alt="Advanced"/></a> | <a href="#leetcode-topic-wise-problems-to-crack-any-interviews"><img src="https://img.shields.io/badge/➡️_PROBLEMS-LeetCode-F39C12?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems"/></a> |
 
 </div>
 
 ---
 
-<div align="center">
-
-**📘🚀 DSA Mastery Roadmap + Theory + Problems**
-
-</div>
-
-
 ---
-
-
-<div align="center">
-
-[![ABOUT](https://img.shields.io/badge/📘_DSA_MASTERY-Roadmap_+_Theory_+_Problems-6C63FF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
-
-</div>
 
 ## 📌 About This Repository
 
@@ -72,7 +52,7 @@ The goal is to explain **every concept clearly**, from **basic to advanced**, wi
 
 <div align="center">
 
-[![ROADMAP](https://img.shields.io/badge/🎯_PLACEMENT_ROADMAP-8_Phases_→_Interview_Ready-6C63FF?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:6C63FF&height=50&section=header&text=%F0%9F%8E%AF%20PLACEMENT%20PREPARATION%20ROADMAP&fontSize=22&fontColor=fff" alt="Roadmap" width="100%"/>
 
 </div>
 
@@ -238,13 +218,6 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
 ---
 
 
-<div align="center">
-
-**📘 DSA Roadmap + Learning Resources**
-
-</div>
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345" alt="DSA Roadmap" width="90%">
 </p>
@@ -258,7 +231,7 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
 
 <div align="center">
 
-[![RESOURCES](https://img.shields.io/badge/📘_LEARNING_RESOURCES-Best_DSA_Playlists-3498DB?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3498DB,100:3498DB&height=50&section=header&text=%F0%9F%93%98%20LEARNING%20RESOURCES%20%26%20PLAYLISTS&fontSize=20&fontColor=fff" alt="Resources" width="100%"/>
 
 </div>
 
@@ -284,17 +257,10 @@ You may follow any one DSA playlist along with these notes:
 
 ---
 
-<div align="center">
-
-**📚 DSA Sheets Collection**
-
-</div>
-
-
 
 <div align="center">
 
-[![SHEETS](https://img.shields.io/badge/📚_DSA_SHEETS-7+_Curated_Collections-FF6B6B?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B6B,100:FF6B6B&height=50&section=header&text=%F0%9F%93%9A%20DSA%20SHEETS%20COLLECTION&fontSize=22&fontColor=fff" alt="Sheets" width="100%"/>
 
 </div>
 
@@ -308,7 +274,7 @@ A curated collection of the most popular DSA sheets used for coding interviews, 
 
 Comprehensive DSA roadmap covering concepts from beginner to advanced level.
 
-[![Striver A2Z Sheet](https://img.shields.io/badge/📋_Open-Striver_A2Z_Sheet-FF0000?style=for-the-badge)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+[![📋 Open Sheet](https://img.shields.io/badge/📋_Open-Striver_A2Z_Sheet-FF0000?style=for-the-badge)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 ---
 
@@ -316,7 +282,7 @@ Comprehensive DSA roadmap covering concepts from beginner to advanced level.
 
 One of the most popular interview preparation sheets containing 450 important problems.
 
-[![Love Babbar 450](https://img.shields.io/badge/📋_Open-Love_Babbar_450-blue?style=for-the-badge)](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+[![📋 Open Sheet](https://img.shields.io/badge/📋_Open-Love_Babbar_450-blue?style=for-the-badge)](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
 
 ---
 
@@ -324,7 +290,7 @@ One of the most popular interview preparation sheets containing 450 important pr
 
 Curated list of 150 frequently asked coding interview questions.
 
-[![NeetCode 150](https://img.shields.io/badge/📋_Open-NeetCode_150-green?style=for-the-badge)](https://neetcode.io/practice)
+[![📋 Open Sheet](https://img.shields.io/badge/📋_Open-NeetCode_150-green?style=for-the-badge)](https://neetcode.io/practice)
 
 ---
 
@@ -332,7 +298,7 @@ Curated list of 150 frequently asked coding interview questions.
 
 Structured DSA sheet designed for interview preparation and problem-solving practice.
 
-[![Fraz DSA Sheet](https://img.shields.io/badge/📋_Open-Fraz_DSA_Sheet-orange?style=for-the-badge)](https://docs.google.com/spreadsheets/u/0/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview)
+[![📋 Open Sheet](https://img.shields.io/badge/📋_Open-Fraz_DSA_Sheet-orange?style=for-the-badge)](https://docs.google.com/spreadsheets/u/0/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview)
 
 ---
 
@@ -340,7 +306,7 @@ Structured DSA sheet designed for interview preparation and problem-solving prac
 
 A collection of 375 handpicked DSA problems for placement preparation.
 
-[![Apna College 375](https://img.shields.io/badge/📋_Open-Apna_College_375-purple?style=for-the-badge)](https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview)
+[![📋 Open Sheet](https://img.shields.io/badge/📋_Open-Apna_College_375-purple?style=for-the-badge)](https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview)
 
 ---
 
@@ -348,7 +314,7 @@ A collection of 375 handpicked DSA problems for placement preparation.
 
 Popular interview preparation sheet covering company-specific questions and patterns.
 
-[![Arsh DSA Sheet](https://img.shields.io/badge/📋_Open-Arsh_DSA_Sheet-teal?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit)
+[![📋 Open Sheet](https://img.shields.io/badge/📋_Open-Arsh_DSA_Sheet-teal?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit)
 
 ---
 
@@ -356,24 +322,17 @@ Popular interview preparation sheet covering company-specific questions and patt
 
 A focused list of 151 essential DSA problems for interview preparation.
 
-[![AlgoPrep 151](https://img.shields.io/badge/📋_Open-AlgoPrep_151-yellow?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit)
+[![📋 Open Sheet](https://img.shields.io/badge/📋_Open-AlgoPrep_151-yellow?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit)
 
 ---
 
 
 ---
 
-<div align="center">
-
-**🧠 DSA Pattern Recognition Guide**
-
-</div>
-
-
 
 <div align="center">
 
-[![PATTERNS](https://img.shields.io/badge/🧠_PATTERN_GUIDE-Master_DSA_Patterns-4ECDC4?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4ECDC4,100:4ECDC4&height=50&section=header&text=%F0%9F%A7%A0%20DSA%20PATTERN%20RECOGNITION%20GUIDE&fontSize=20&fontColor=fff" alt="Patterns" width="100%"/>
 
 </div>
 
@@ -501,9 +460,9 @@ Use when:
 ---
 
 
-<div align="left">
+<div align="center">
 
-➡️ **🌳 Trees**
+<img src="https://img.shields.io/badge/➡️_🌳_Trees-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -869,21 +828,21 @@ Use when:
 ---
 
 
-
-<div align="center">
-
-**🧱 Part 1: Linear Data Structures**
-
-</div>
-
   
 
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
+
+<br/>
+
+---
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=120&section=header&text=🧱%20PART%201&fontSize=42&fontColor=fff&animation=twinkling" alt="Part 1 Banner" width="100%"/>
-
-[![PART 1](https://img.shields.io/badge/➡️_PART_1-Linear_Data_Structures-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMGE4IDggMCAxIDAgMCAxNkE4IDggMCAwIDAgOCAwem0zLjUgNi41YS41LjUgMCAwIDEgMCAxSDUuNzA3bDIuMTQ3IDIuMTQ2YS41LjUgMCAwIDEtLjcwOC43MDhsLTMtM2EuNS41IDAgMCAxIDAtLjcwOGwzLTNhLjUuNSAwIDEgMSAuNzA4eiIvPjwvc3ZnPg==)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=130&section=header&text=%F0%9F%A7%B1%20PART%201%20%E2%80%94%20LINEAR%20DATA%20STRUCTURES&fontSize=32&fontColor=fff&animation=twinkling" alt="Part 1" width="100%"/>
 
 </div>
 
@@ -928,28 +887,21 @@ Arrays are widely used because they:
 
 ---
 
-<div align="center">
-
-**🧱 Part 1: Linear Data Structures**
-
-</div>
 
 
 
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
 
-**🌳 Part 2: Non-Linear Data Structures**
+<br/>
 
-</div>
-
+---
 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,9,15,21&height=120&section=header&text=🌳%20PART%202&fontSize=42&fontColor=fff&animation=twinkling" alt="Part 2 Banner" width="100%"/>
-
-[![PART 2](https://img.shields.io/badge/➡️_PART_2-Non--Linear_Data_Structures-2ECC71?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,9,15,21&height=130&section=header&text=%F0%9F%8C%B3%20PART%202%20%E2%80%94%20NON-LINEAR%20DATA%20STRUCTURES&fontSize=30&fontColor=fff&animation=twinkling" alt="Part 2" width="100%"/>
 
 </div>
 
@@ -1043,19 +995,19 @@ Unlike trees, graphs:
 
 
 
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
+
+<br/>
+
+---
+
+
 <div align="center">
 
-**⚙️ Part 3: Algorithms**
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,11,17,23&height=120&section=header&text=⚙️%20PART%203&fontSize=42&fontColor=fff&animation=twinkling" alt="Part 3 Banner" width="100%"/>
-
-[![PART 3](https://img.shields.io/badge/➡️_PART_3-Algorithms_&_Techniques-E74C3C?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,11,17,23&height=130&section=header&text=%E2%9A%99%EF%B8%8F%20PART%203%20%E2%80%94%20ALGORITHMS&fontSize=36&fontColor=fff&animation=twinkling" alt="Part 3" width="100%"/>
 
 </div>
 
@@ -1181,9 +1133,18 @@ Mastering **DSA theory** builds the foundation for:
 
 
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
+
+<br/>
+
+---
+
+
 <div align="center">
 
-[![ADVANCED](https://img.shields.io/badge/📕_ADVANCED_THEORY-Complete_DSA_Reference-9B59B6?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,14,20,26&height=110&section=header&text=%F0%9F%93%95%20ADVANCED%20DSA%20THEORY&fontSize=34&fontColor=fff&animation=twinkling" alt="Advanced" width="100%"/>
 
 </div>
 
@@ -1197,9 +1158,9 @@ Together, both files form a **complete DSA theory reference** from **basic → a
 # 🧩 MATHEMATICAL & FOUNDATIONAL CONCEPTS
 
 ---
-    ## 📚 Time Complexity Analysis
+## 📚 Time Complexity Analysis
 
-    ## 📌 Time Complexity Analysis
+## 📌 Time Complexity Analysis
 
 ### What is Time Complexity?
 Time complexity describes how the **execution time of an algorithm grows** with respect to input size `n`.
@@ -1385,20 +1346,27 @@ A tree-based structure for storing strings using prefixes.
 ⭐ If this repository helped you, consider starring it and sharing it with others.
 
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
+
+<br/>
+
+---
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=120&section=header&text=💻%20LeetCode%20Problems&fontSize=38&fontColor=fff&animation=twinkling" alt="Problems Banner" width="100%"/>
-
-[![PROBLEMS](https://img.shields.io/badge/💻_LEETCODE-TOPIC_WISE_PROBLEMS-F39C12?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=130&section=header&text=%F0%9F%92%BB%20LEETCODE%20TOPIC-WISE%20PROBLEMS&fontSize=32&fontColor=fff&animation=twinkling" alt="Problems" width="100%"/>
 
 </div>
 
 # LeetCode-Topic-wise-Problems to Crack any interviews.
 
 
-<div align="left">
+<div align="center">
 
-➡️ **🧠 Hashing Problems ---**
+<img src="https://img.shields.io/badge/➡️_🧠_Hashing_Problems_----Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -1517,9 +1485,9 @@ A tree-based structure for storing strings using prefixes.
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Arrays**
+<img src="https://img.shields.io/badge/➡️_Arrays-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -1637,9 +1605,9 @@ A tree-based structure for storing strings using prefixes.
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Strings**
+<img src="https://img.shields.io/badge/➡️_Strings-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -1757,9 +1725,9 @@ A tree-based structure for storing strings using prefixes.
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ ****Searching****
+<img src="https://img.shields.io/badge/➡️_**Searching**-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -1876,9 +1844,9 @@ A tree-based structure for storing strings using prefixes.
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ ****Sorting****
+<img src="https://img.shields.io/badge/➡️_**Sorting**-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -2005,9 +1973,9 @@ A tree-based structure for storing strings using prefixes.
 
 ---
 
-<div align="left">
+<div align="center">
 
-➡️ **Sorting Techniques**
+<img src="https://img.shields.io/badge/➡️_Sorting_Techniques-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -2143,9 +2111,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Backtracking**
+<img src="https://img.shields.io/badge/➡️_Backtracking-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -2258,9 +2226,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Recursion**
+<img src="https://img.shields.io/badge/➡️_Recursion-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -2373,9 +2341,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Stack**
+<img src="https://img.shields.io/badge/➡️_Stack-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -2488,9 +2456,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Queue**
+<img src="https://img.shields.io/badge/➡️_Queue-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -2581,9 +2549,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Linked List**
+<img src="https://img.shields.io/badge/➡️_Linked_List-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -2810,9 +2778,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 ---
 
 
-<div align="left">
+<div align="center">
 
-➡️ ****Binary Search Tree (BST)****
+<img src="https://img.shields.io/badge/➡️_**Binary_Search_Tree_(BST)**-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -2925,9 +2893,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 30  | [K-th Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Hard |
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Heap Problems**
+<img src="https://img.shields.io/badge/➡️_Heap_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3040,9 +3008,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ ****Graph Problems****
+<img src="https://img.shields.io/badge/➡️_**Graph_Problems**-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3160,9 +3128,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ ****Greedy****
+<img src="https://img.shields.io/badge/➡️_**Greedy**-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3279,9 +3247,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 ### 🔴 Hard
 
 
-<div align="left">
+<div align="center">
 
-➡️ ****Dynamic Programming (DP)****
+<img src="https://img.shields.io/badge/➡️_**Dynamic_Programming_(DP)**-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3440,9 +3408,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **🚪 Sliding Window**
+<img src="https://img.shields.io/badge/➡️_🚪_Sliding_Window-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3450,9 +3418,9 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 Sliding Window is a commonly used technique for solving array and string problems involving subarrays/substrings, maximum/minimums, or fixed/variable window sizes.
 
-<div align="left">
+<div align="center">
 
-➡️ **Sliding Window Problems**
+<img src="https://img.shields.io/badge/➡️_Sliding_Window_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3565,18 +3533,18 @@ Sliding Window is a commonly used technique for solving array and string problem
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **📌 Two Pointer**
+<img src="https://img.shields.io/badge/➡️_📌_Two_Pointer-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
 # 📌 Two Pointer 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Two Pointer Problems**
+<img src="https://img.shields.io/badge/➡️_Two_Pointer_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3692,9 +3660,9 @@ Sliding Window is a commonly used technique for solving array and string problem
 ---
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Prefix Sum Problems**
+<img src="https://img.shields.io/badge/➡️_Prefix_Sum_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3808,9 +3776,9 @@ Sliding Window is a commonly used technique for solving array and string problem
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Bit Manipulation Problems**
+<img src="https://img.shields.io/badge/➡️_Bit_Manipulation_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -3923,9 +3891,9 @@ Sliding Window is a commonly used technique for solving array and string problem
 
 
 
-<div align="left">
+<div align="center">
 
-➡️ **Trie Problems for Interview Preparation**
+<img src="https://img.shields.io/badge/➡️_Trie_Problems_for_Interview_Preparation-Problems-F39C12?style=for-the-badge" alt="topic"/>
 
 </div>
 
@@ -4150,10 +4118,13 @@ Sliding Window is a commonly used technique for solving array and string problem
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=footer&animation=twinkling" alt="Footer" width="100%"/>
 
-### ⭐ If this repository helped you, consider starring it!
+### ⭐ If this repository helped you, consider starring it and sharing it with others.
 
-[![Star this repo](https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support_the_Project-yellow?style=for-the-badge&logo=github)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
+<a href="https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers">
+  <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support_the_Project-yellow?style=for-the-badge&logo=github" alt="Star"/>
+</a>
 
 **Made with ❤️ for DSA & Interview Preparation**
 
 </div>
+
