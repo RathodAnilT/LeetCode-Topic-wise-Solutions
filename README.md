@@ -1,8 +1,52 @@
+<div align="center">
 
-<details>
-<summary>📘🚀 DSA Mastery Roadmap + Theory + Problems (Click to Expand)</summary>
+# 🎯 LeetCode Topic-wise Solutions
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=DSA+Mastery+Roadmap+%F0%9F%9A%80;Theory+%2B+Problems+%F0%9F%93%9A;Crack+Any+Interview+%F0%9F%92%BC;Topic-wise+LeetCode+Solutions+%E2%9C%85" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub stars](https://img.shields.io/github/stars/RathodAnilT/LeetCode-Topic-wise-Solutions?style=for-the-badge&logo=github&color=yellow&label=Stars)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Topic%20Wise-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![DSA](https://img.shields.io/badge/DSA-Complete%20Guide-blue?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+[![Interview](https://img.shields.io/badge/Interview-Ready-green?style=for-the-badge&logo=target)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+[![Placement](https://img.shields.io/badge/Placement-Preparation-red?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+<br/>
+
+### ⬇️ Quick Navigation — Jump to Any Section
+
+| ➡️ Section | 🔗 Link |
+|:-----------|:--------|
+| 📘 About & Roadmap | [Go ➡️](#-placement-preparation-roadmap) |
+| 📚 Learning Resources | [Go ➡️](#-recommended-learning-resources) |
+| 📋 DSA Sheets | [Go ➡️](#-dsa-sheets-collection) |
+| 🧠 Pattern Guide | [Go ➡️](#-dsa-pattern-recognition-guide) |
+| 🧱 Part 1 — Linear DS | [Go ➡️](#-part-1-linear-data-structures) |
+| 🌳 Part 2 — Non-Linear DS | [Go ➡️](#-part-2-non-linear-data-structures) |
+| ⚙️ Part 3 — Algorithms | [Go ➡️](#-part-3-algorithms) |
+| 📕 Advanced Theory | [Go ➡️](#-advanced-data-structures--algorithms--complete-theory) |
+| 💻 LeetCode Problems | [Go ➡️](#leetcode-topic-wise-problems-to-crack-any-interviews) |
+
+</div>
 
 ---
+
+<div align="center">
+
+**📘🚀 DSA Mastery Roadmap + Theory + Problems**
+
+</div>
+
+
+---
+
+
+<div align="center">
+
+[![ABOUT](https://img.shields.io/badge/📘_DSA_MASTERY-Roadmap_+_Theory_+_Problems-6C63FF?style=for-the-badge&labelColor=1a1a2e)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
 
 ## 📌 About This Repository
 
@@ -25,13 +69,20 @@ The goal is to explain **every concept clearly**, from **basic to advanced**, wi
 
 ---
 
+
+<div align="center">
+
+[![ROADMAP](https://img.shields.io/badge/🎯_PLACEMENT_ROADMAP-8_Phases_→_Interview_Ready-6C63FF?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
+
 # 🎯 Placement Preparation Roadmap
 
 Follow this roadmap step by step to build strong problem-solving skills and crack coding interviews.
 
 ---
 
-## 📌 Phase 1: Build the Foundation
+## ➡️ 📌 Phase 1: Build the Foundation
 
 ### Topics
 - Arrays
@@ -53,7 +104,7 @@ Follow this roadmap step by step to build strong problem-solving skills and crac
 
 ---
 
-## 📌 Phase 2: Master Linear Data Structures
+## ➡️ 📌 Phase 2: Master Linear Data Structures
 
 ### Topics
 - Linked List
@@ -72,7 +123,7 @@ Follow this roadmap step by step to build strong problem-solving skills and crac
 
 ---
 
-## 📌 Phase 3: Searching & Recursion
+## ➡️ 📌 Phase 3: Searching & Recursion
 
 ### Topics
 - Binary Search
@@ -88,7 +139,7 @@ Follow this roadmap step by step to build strong problem-solving skills and crac
 
 ---
 
-## 📌 Phase 4: Trees & Heaps
+## ➡️ 📌 Phase 4: Trees & Heaps
 
 ### Topics
 - Trees
@@ -107,7 +158,7 @@ Follow this roadmap step by step to build strong problem-solving skills and crac
 
 ---
 
-## 📌 Phase 5: Graphs
+## ➡️ 📌 Phase 5: Graphs
 
 ### Topics
 - Graph Representation
@@ -126,7 +177,7 @@ Follow this roadmap step by step to build strong problem-solving skills and crac
 
 ---
 
-## 📌 Phase 6: Dynamic Programming
+## ➡️ 📌 Phase 6: Dynamic Programming
 
 ### Topics
 - 1D / 2D DP
@@ -143,7 +194,7 @@ Follow this roadmap step by step to build strong problem-solving skills and crac
 
 ---
 
-## 📌 Phase 7: Advanced Topics
+## ➡️ 📌 Phase 7: Advanced Topics
 
 ### Topics
 - Greedy
@@ -156,7 +207,7 @@ Follow this roadmap step by step to build strong problem-solving skills and crac
 
 ---
 
-## 📌 Phase 8: Interview Simulation
+## ➡️ 📌 Phase 8: Interview Simulation
 
 - Mock Interviews  
 - OA Practice  
@@ -183,12 +234,16 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
 
 ---
 
-</details>
 
 ---
 
-<details>
-  <summary>📘 Click to Expand DSA Roadmap + Learning Resources</summary>
+
+<div align="center">
+
+**📘 DSA Roadmap + Learning Resources**
+
+</div>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345" alt="DSA Roadmap" width="90%">
@@ -200,6 +255,13 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
 
 ---
 
+
+<div align="center">
+
+[![RESOURCES](https://img.shields.io/badge/📘_LEARNING_RESOURCES-Best_DSA_Playlists-3498DB?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
+
 ## 🎯 Recommended Learning Resources.
 
 You may follow any one DSA playlist along with these notes:
@@ -207,7 +269,7 @@ You may follow any one DSA playlist along with these notes:
 ## 📚 Best DSA Playlists (Choose Any One)
 
 1.) **Striver's A2Z DSA Course / Playlist**  
-👉 [Striver's A2Z DSA Course / Playlist](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=MTF_66tGoeIcGMFc)
+[![▶️ Striver A2Z DSA](https://img.shields.io/badge/▶️_Striver-A2Z_DSA_Course-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=MTF_66tGoeIcGMFc)
 
 2.) **Kunal Kushwaha's DSA Playlist (Java)**  
 👉 [Kunal Kushwaha's DSA Playlist](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=49OSFypplevYrlU_)
@@ -216,14 +278,25 @@ You may follow any one DSA playlist along with these notes:
 👉 [Love Babbar's DSA Playlist](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=zwfnuxgTzmerU0KH)
 
 4.) **Apna College / Apni Kaksha DSA Playlist (C++ & Java)**  
-👉 [Apna College / Apni Kaksha Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=4lU4XmjLpF-8sIFy)
+[![▶️ Apna College](https://img.shields.io/badge/▶️_Apna_College-DSA_Playlist-orange?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=4lU4XmjLpF-8sIFy)
 
-</details>
 
 
 ---
-<details>
-  <summary>📚 Click to Expand DSA Sheets Collection</summary>
+
+<div align="center">
+
+**📚 DSA Sheets Collection**
+
+</div>
+
+
+
+<div align="center">
+
+[![SHEETS](https://img.shields.io/badge/📚_DSA_SHEETS-7+_Curated_Collections-FF6B6B?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
 
 # 📚 DSA Sheets Collection
 
@@ -235,7 +308,7 @@ A curated collection of the most popular DSA sheets used for coding interviews, 
 
 Comprehensive DSA roadmap covering concepts from beginner to advanced level.
 
-🔗 https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+[![Striver A2Z Sheet](https://img.shields.io/badge/📋_Open-Striver_A2Z_Sheet-FF0000?style=for-the-badge)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 ---
 
@@ -243,7 +316,7 @@ Comprehensive DSA roadmap covering concepts from beginner to advanced level.
 
 One of the most popular interview preparation sheets containing 450 important problems.
 
-🔗 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+[![Love Babbar 450](https://img.shields.io/badge/📋_Open-Love_Babbar_450-blue?style=for-the-badge)](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
 
 ---
 
@@ -251,7 +324,7 @@ One of the most popular interview preparation sheets containing 450 important pr
 
 Curated list of 150 frequently asked coding interview questions.
 
-🔗 https://neetcode.io/practice
+[![NeetCode 150](https://img.shields.io/badge/📋_Open-NeetCode_150-green?style=for-the-badge)](https://neetcode.io/practice)
 
 ---
 
@@ -259,7 +332,7 @@ Curated list of 150 frequently asked coding interview questions.
 
 Structured DSA sheet designed for interview preparation and problem-solving practice.
 
-🔗 https://docs.google.com/spreadsheets/u/0/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview
+[![Fraz DSA Sheet](https://img.shields.io/badge/📋_Open-Fraz_DSA_Sheet-orange?style=for-the-badge)](https://docs.google.com/spreadsheets/u/0/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/htmlview)
 
 ---
 
@@ -267,7 +340,7 @@ Structured DSA sheet designed for interview preparation and problem-solving prac
 
 A collection of 375 handpicked DSA problems for placement preparation.
 
-🔗 https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview
+[![Apna College 375](https://img.shields.io/badge/📋_Open-Apna_College_375-purple?style=for-the-badge)](https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview)
 
 ---
 
@@ -275,7 +348,7 @@ A collection of 375 handpicked DSA problems for placement preparation.
 
 Popular interview preparation sheet covering company-specific questions and patterns.
 
-🔗 https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit
+[![Arsh DSA Sheet](https://img.shields.io/badge/📋_Open-Arsh_DSA_Sheet-teal?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit)
 
 ---
 
@@ -283,15 +356,26 @@ Popular interview preparation sheet covering company-specific questions and patt
 
 A focused list of 151 essential DSA problems for interview preparation.
 
-🔗 https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit
+[![AlgoPrep 151](https://img.shields.io/badge/📋_Open-AlgoPrep_151-yellow?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit)
 
 ---
 
-</details>
 
 ---
-<details>
-  <summary>🧠 Click to Expand DSA Pattern Recognition Guide</summary>
+
+<div align="center">
+
+**🧠 DSA Pattern Recognition Guide**
+
+</div>
+
+
+
+<div align="center">
+
+[![PATTERNS](https://img.shields.io/badge/🧠_PATTERN_GUIDE-Master_DSA_Patterns-4ECDC4?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
 
 # 🧠 DSA Pattern Recognition Guide
 
@@ -415,6 +499,13 @@ Use when:
 * Palindrome Partitioning
 
 ---
+
+
+<div align="left">
+
+➡️ **🌳 Trees**
+
+</div>
 
 ## 🌳 Trees
 
@@ -774,14 +865,27 @@ Use when:
 * Quick Sort
 * Closest Pair Problems
 
-</details>
 
 ---
 
 
-<details>
-  <summary>🧱 Click to Expand Part 1: Linear Data Structures</summary>
+
+<div align="center">
+
+**🧱 Part 1: Linear Data Structures**
+
+</div>
+
   
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=120&section=header&text=🧱%20PART%201&fontSize=42&fontColor=fff&animation=twinkling" alt="Part 1 Banner" width="100%"/>
+
+[![PART 1](https://img.shields.io/badge/➡️_PART_1-Linear_Data_Structures-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMGE4IDggMCAxIDAgMCAxNkE4IDggMCAwIDAgOCAwem0zLjUgNi41YS41LjUgMCAwIDEgMCAxSDUuNzA3bDIuMTQ3IDIuMTQ2YS41LjUgMCAwIDEtLjcwOC43MDhsLTMtM2EuNS41IDAgMCAxIDAtLjcwOGwzLTNhLjUuNSAwIDEgMSAuNzA4eiIvPjwvc3ZnPg==)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
 
 # 🧱 PART 1: LINEAR DATA STRUCTURES
 
@@ -823,13 +927,31 @@ Arrays are widely used because they:
 
 
 ---
-<details>
-  <summary>🧱 Click to Expand Part 1: Linear Data Structures</summary>
-</details>
+
+<div align="center">
+
+**🧱 Part 1: Linear Data Structures**
+
+</div>
 
 
-<details>
-  <summary>🌳 Click to Expand Part 2: Non-Linear Data Structures</summary>
+
+
+<div align="center">
+
+**🌳 Part 2: Non-Linear Data Structures**
+
+</div>
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,9,15,21&height=120&section=header&text=🌳%20PART%202&fontSize=42&fontColor=fff&animation=twinkling" alt="Part 2 Banner" width="100%"/>
+
+[![PART 2](https://img.shields.io/badge/➡️_PART_2-Non--Linear_Data_Structures-2ECC71?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
 
 # 🌳 PART 2: NON-LINEAR DATA STRUCTURES
 
@@ -916,13 +1038,26 @@ Unlike trees, graphs:
 - Shortest Path Algorithms – Finding minimum distance between nodes  
 - Strongly Connected Components – Groups of mutually reachable nodes  
 
-</details>
 
 ---
 
 
-<details>
-  <summary>⚙️ Click to Expand Part 3: Algorithms</summary>
+
+<div align="center">
+
+**⚙️ Part 3: Algorithms**
+
+</div>
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,11,17,23&height=120&section=header&text=⚙️%20PART%203&fontSize=42&fontColor=fff&animation=twinkling" alt="Part 3 Banner" width="100%"/>
+
+[![PART 3](https://img.shields.io/badge/➡️_PART_3-Algorithms_&_Techniques-E74C3C?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
 
 # ⚙️ PART 3: ALGORITHMS
 
@@ -1045,6 +1180,13 @@ Mastering **DSA theory** builds the foundation for:
 - Understanding system design
 
 
+
+<div align="center">
+
+[![ADVANCED](https://img.shields.io/badge/📕_ADVANCED_THEORY-Complete_DSA_Reference-9B59B6?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+
+</div>
+
 # 📕 Advanced Data Structures & Algorithms – Complete Theory
 
 This document contains **advanced and supporting DSA concepts** that complement the main README.  
@@ -1055,8 +1197,7 @@ Together, both files form a **complete DSA theory reference** from **basic → a
 # 🧩 MATHEMATICAL & FOUNDATIONAL CONCEPTS
 
 ---
-<details>
-    <summary>📚Time Complexity Analysis /summary>
+    ## 📚 Time Complexity Analysis
 
     ## 📌 Time Complexity Analysis
 
@@ -1092,7 +1233,6 @@ Space complexity measures the **extra memory** used by an algorithm besides inpu
 - **Theta (Θ)** – Tight bound  
 
  
-</details>     
 
 ---
 
@@ -1239,13 +1379,28 @@ A tree-based structure for storing strings using prefixes.
 ✔ Interview-ready preparation  
 ✔ Clean structured learning path  
 
-</details>
 
 
 
 ⭐ If this repository helped you, consider starring it and sharing it with others.
 
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=120&section=header&text=💻%20LeetCode%20Problems&fontSize=38&fontColor=fff&animation=twinkling" alt="Problems Banner" width="100%"/>
+
+[![PROBLEMS](https://img.shields.io/badge/💻_LEETCODE-TOPIC_WISE_PROBLEMS-F39C12?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+</div>
+
 # LeetCode-Topic-wise-Problems to Crack any interviews.
+
+
+<div align="left">
+
+➡️ **🧠 Hashing Problems ---**
+
+</div>
 
 ## 🧠 Hashing Problems ---
 
@@ -1361,6 +1516,13 @@ A tree-based structure for storing strings using prefixes.
 ---
 
 
+
+<div align="left">
+
+➡️ **Arrays**
+
+</div>
+
 ## Arrays 
 
 ### 🟢 Easy
@@ -1473,6 +1635,13 @@ A tree-based structure for storing strings using prefixes.
 | 30 | [Longest Substring of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | Hard |
 
 
+
+
+<div align="left">
+
+➡️ **Strings**
+
+</div>
 
 ## Strings
 
@@ -1587,6 +1756,13 @@ A tree-based structure for storing strings using prefixes.
 
 
 
+
+<div align="left">
+
+➡️ ****Searching****
+
+</div>
+
 ## **Searching**
 
 ### 🟢 Easy
@@ -1698,6 +1874,13 @@ A tree-based structure for storing strings using prefixes.
 | 29  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Hard |
 | 30  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Hard |
 
+
+
+<div align="left">
+
+➡️ ****Sorting****
+
+</div>
 
 ## **Sorting**
 
@@ -1821,6 +2004,13 @@ A tree-based structure for storing strings using prefixes.
 | 38  | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard |
 
 ---
+
+<div align="left">
+
+➡️ **Sorting Techniques**
+
+</div>
+
 # Sorting Techniques
 
 ### 1. **Bubble Sort**
@@ -1952,6 +2142,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
+
+<div align="left">
+
+➡️ **Backtracking**
+
+</div>
+
 ## Backtracking
 
 ### 🟢 Easy
@@ -2059,6 +2256,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Minimum Window Substring II](https://leetcode.com/problems/minimum-window-substring-ii/) | Hard |
 | 30 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Hard |
 
+
+
+<div align="left">
+
+➡️ **Recursion**
+
+</div>
 
 ## Recursion
 
@@ -2168,6 +2372,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 30 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Hard |
 
 
+
+<div align="left">
+
+➡️ **Stack**
+
+</div>
+
 ## Stack
 
 ### 🟢 Easy
@@ -2276,6 +2487,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 30 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
 
 
+
+<div align="left">
+
+➡️ **Queue**
+
+</div>
+
 ## Queue
 
 ### 🟢 Easy
@@ -2361,6 +2579,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 30 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Hard |
 
 
+
+
+<div align="left">
+
+➡️ **Linked List**
+
+</div>
 
 ## Linked List
 ### 🟢 Easy
@@ -2584,6 +2809,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 ---
 
+
+<div align="left">
+
+➡️ ****Binary Search Tree (BST)****
+
+</div>
+
 ## **Binary Search Tree (BST)**
 
 ### 🟢 Easy
@@ -2692,6 +2924,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard |
 | 30  | [K-th Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Hard |
 
+
+<div align="left">
+
+➡️ **Heap Problems**
+
+</div>
+
 # Heap Problems
 
 ## 🟢 Easy
@@ -2799,6 +3038,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard |
 | 30 | [Find Kth Largest Element in the Array](https://leetcode.com/problems/find-kth-largest-element-in-the-array/) | Hard |
 
+
+
+<div align="left">
+
+➡️ ****Graph Problems****
+
+</div>
 
 ## **Graph Problems**
 
@@ -2913,6 +3159,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 
 
+
+<div align="left">
+
+➡️ ****Greedy****
+
+</div>
+
 ## **Greedy**
 
 ### 🟢 Easy
@@ -3024,6 +3277,13 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 ### 🟢 Easy
 ### 🟡 Medium
 ### 🔴 Hard
+
+
+<div align="left">
+
+➡️ ****Dynamic Programming (DP)****
+
+</div>
 
 ## **Dynamic Programming (DP)**
 
@@ -3179,9 +3439,23 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 10  | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard |
 
 
+
+<div align="left">
+
+➡️ **🚪 Sliding Window**
+
+</div>
+
 # 🚪 Sliding Window 
 
 Sliding Window is a commonly used technique for solving array and string problems involving subarrays/substrings, maximum/minimums, or fixed/variable window sizes.
+
+<div align="left">
+
+➡️ **Sliding Window Problems**
+
+</div>
+
 # Sliding Window Problems
 
 ## 🟢 Easy
@@ -3290,7 +3564,21 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 30 | [Find Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/find-kth-smallest-element-in-sorted-matrix/) | Hard |
 
 
+
+<div align="left">
+
+➡️ **📌 Two Pointer**
+
+</div>
+
 # 📌 Two Pointer 
+
+
+<div align="left">
+
+➡️ **Two Pointer Problems**
+
+</div>
 
 # Two Pointer Problems
 
@@ -3403,6 +3691,13 @@ Sliding Window is a commonly used technique for solving array and string problem
 
 ---
 
+
+<div align="left">
+
+➡️ **Prefix Sum Problems**
+
+</div>
+
 # Prefix Sum Problems
 
 ## 🟢 Easy
@@ -3512,6 +3807,13 @@ Sliding Window is a commonly used technique for solving array and string problem
 
 
 
+
+<div align="left">
+
+➡️ **Bit Manipulation Problems**
+
+</div>
+
 # Bit Manipulation Problems
 
 ## 🟢 Easy
@@ -3619,6 +3921,13 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard |
 | 30 | [Find Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/find-kth-smallest-element-in-sorted-matrix/) | Hard |
 
+
+
+<div align="left">
+
+➡️ **Trie Problems for Interview Preparation**
+
+</div>
 
 # Trie Problems for Interview Preparation
 
@@ -3835,3 +4144,16 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Hard |
 | 30 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Hard |
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=footer&animation=twinkling" alt="Footer" width="100%"/>
+
+### ⭐ If this repository helped you, consider starring it!
+
+[![Star this repo](https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support_the_Project-yellow?style=for-the-badge&logo=github)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
+
+**Made with ❤️ for DSA & Interview Preparation**
+
+</div>
