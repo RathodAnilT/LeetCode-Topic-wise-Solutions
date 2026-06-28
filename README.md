@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=160&section=header&text=LeetCode%20Topic-wise%20Solutions&fontSize=44&fontColor=fff&animation=twinkling" alt="Header" width="100%"/>
+# 📚 LeetCode Topic-wise Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=DSA+Mastery+Roadmap+%F0%9F%9A%80;Theory+%2B+Problems+%F0%9F%93%9A;Crack+Any+Interview+%F0%9F%92%BC" alt="Typing" />
+### *A Complete DSA Reference Book — Roadmap · Theory · 400+ Problems*
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/RathodAnilT/LeetCode-Topic-wise-Solutions?style=for-the-badge&logo=github&color=yellow)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Topic_Wise-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![DSA](https://img.shields.io/badge/DSA-Complete_Guide-6C63FF?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
-[![Interview](https://img.shields.io/badge/Interview-Ready-2ECC71?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
+[![Author](https://img.shields.io/badge/Author-Anil_Rathod-181717?style=for-the-badge&logo=github)](https://github.com/RathodAnilT)
+[![Stars](https://img.shields.io/github/stars/RathodAnilT/LeetCode-Topic-wise-Solutions?style=for-the-badge&logo=github&color=yellow&label=Stars)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![DSA](https://img.shields.io/badge/DSA-Interview_Ready-6C63FF?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
 
 </div>
 
@@ -22,70 +22,94 @@ The goal is to explain **every concept clearly**, from **basic to advanced**, wi
 
 ---
 
-## 🎯 Designed For...
+## 🎯 Designed For
 
-- Product-Based Companies  
-- SDE Internships  
-- On-Campus Placements  
-- Off-Campus Placements  
-- FAANG Preparation  
-- Competitive Programming  
-- Coding Interviews  
-- Online Assessments (OA)  
-- DSA Mastery  
+| 🏢 Product Companies | 🎓 Campus Placements | 💼 SDE Internships |
+|:---:|:---:|:---:|
+| 🚀 FAANG Prep | 🧠 DSA Mastery | 📝 Online Assessments |
 
 ---
 
-## 📑 Table of Contents
+<a id="table-of-contents"></a>
 
-> **How to use:** Scroll down and click any **▼ Expand** section to open it. Click again to collapse.  
-> This keeps the README easy to navigate despite 4000+ lines of content.
+<div align="center">
 
-### 📘 Theory & Roadmap
+# 📑 TABLE OF CONTENTS
 
-| # | Section | What's Inside |
-|:-:|---------|---------------|
-| 1️⃣ | **🎯 Placement Preparation Roadmap** | 8 phases from basics to interview ready |
-| 2️⃣ | **📘 Learning Resources & Playlists** | Best DSA YouTube playlists + roadmap images |
-| 3️⃣ | **📚 DSA Sheets Collection** | Striver, NeetCode, Love Babbar & more |
-| 4️⃣ | **🧠 DSA Pattern Recognition Guide** | When to use Binary Search, DP, Graphs, etc. |
-| 5️⃣ | **🧱 Part 1 — Linear Data Structures** | Arrays theory & concepts |
-| 6️⃣ | **🌳 Part 2 — Non-Linear Data Structures** | Trees & Graphs theory |
-| 7️⃣ | **⚙️ Part 3 — Algorithms** | Searching, Sorting, Recursion, DP theory |
-| 8️⃣ | **📕 Advanced DSA Theory** | Heap, Trie, DSU, Graph algorithms & more |
+<img src="https://img.shields.io/badge/📖_Reference_Book-Click_any_§_chapter_to_jump-6C63FF?style=for-the-badge" alt="TOC"/>
 
-### 💻 LeetCode Problems (Topic-wise)
+</div>
 
-| # | Topic | Difficulty Levels |
-|:-:|-------|-------------------|
-| 9️⃣ | **🧠 Hashing** | Easy · Medium · Hard |
-| 🔟 | **📌 Arrays** | Easy · Medium · Hard |
-| 1️⃣1️⃣ | **📝 Strings** | Easy · Medium · Hard |
-| 1️⃣2️⃣ | **🔍 Searching** | Easy · Medium · Hard |
-| 1️⃣3️⃣ | **🔃 Sorting** | Easy · Medium · Hard |
-| 1️⃣4️⃣ | **🔙 Backtracking** | Easy · Medium · Hard |
-| 1️⃣5️⃣ | **🔁 Recursion** | Easy · Medium · Hard |
-| 1️⃣6️⃣ | **📚 Stack** | Easy · Medium · Hard |
-| 1️⃣7️⃣ | **📋 Queue** | Easy · Medium · Hard |
-| 1️⃣8️⃣ | **🔗 Linked List** | Easy · Medium · Hard |
-| 1️⃣9️⃣ | **🌳 Trees** | Easy · Medium · Hard |
-| 2️⃣0️⃣ | **🌲 BST** | Easy · Medium · Hard |
-| 2️⃣1️⃣ | **🗑️ Heap** | Easy · Medium · Hard |
-| 2️⃣2️⃣ | **🌐 Graph** | Easy · Medium · Hard |
-| 2️⃣3️⃣ | **💰 Greedy** | Easy · Medium · Hard |
-| 2️⃣4️⃣ | **🧮 Dynamic Programming** | Easy · Medium · Hard |
-| 2️⃣5️⃣ | **🚪 Sliding Window** | Easy · Medium · Hard |
-| 2️⃣6️⃣ | **👉 Two Pointer** | Easy · Medium · Hard |
-| 2️⃣7️⃣ | **➕ Prefix Sum** | Easy · Medium · Hard |
-| 2️⃣8️⃣ | **🎭 Bit Manipulation** | Easy · Medium · Hard |
-| 2️⃣9️⃣ | **🌲 Trie** | Easy · Medium · Hard |
-| 3️⃣0️⃣ | **🌳 Segment Tree** | Easy · Medium · Hard |
+> 📌 **How to navigate:** Click any **§ Chapter** link → jump to that section → expand it.  
+> Use **⬆️ Back to Contents** at the end of each chapter to return here.
 
 ---
+
+### 📗 PART I — ROADMAP & LEARNING RESOURCES
+
+| Ch. | Chapter Title | Jump To |
+|:---:|:--------------|:-------:|
+| **§ 1** | 🎯 Placement Preparation Roadmap | [Open →](#ch-01) |
+| **§ 2** | 📘 Learning Resources & Playlists | [Open →](#ch-02) |
+| **§ 3** | 📚 DSA Sheets Collection | [Open →](#ch-03) |
+| **§ 4** | 🧠 DSA Pattern Recognition Guide | [Open →](#ch-04) |
+
+---
+
+### 📘 PART II — DATA STRUCTURES & ALGORITHMS (THEORY)
+
+| Ch. | Chapter Title | Jump To |
+|:---:|:--------------|:-------:|
+| **§ 5** | 🧱 Part 1 — Linear Data Structures | [Open →](#ch-05) |
+| **§ 6** | 🌳 Part 2 — Non-Linear Data Structures | [Open →](#ch-06) |
+| **§ 7** | ⚙️ Part 3 — Algorithms | [Open →](#ch-07) |
+| **§ 8** | 📕 Advanced DSA Theory | [Open →](#ch-08) |
+
+---
+
+### 📙 PART III — LEETCODE PROBLEMS (TOPIC-WISE)
+
+| Ch. | Chapter Title | Jump To |
+|:---:|:--------------|:-------:|
+| **§ 9** | 💻 All LeetCode Problems (Index) | [Open →](#ch-09) |
+| **§ 10** | 🧠 Hashing Problems | [Open →](#ch-10) |
+| **§ 11** | 📌 Arrays Problems | [Open →](#ch-11) |
+| **§ 12** | 📝 Strings Problems | [Open →](#ch-12) |
+| **§ 13** | 🔍 Searching Problems | [Open →](#ch-13) |
+| **§ 14** | 🔃 Sorting Problems | [Open →](#ch-14) |
+| **§ 15** | 🔃 Sorting Techniques | [Open →](#ch-15) |
+| **§ 16** | 🔙 Backtracking Problems | [Open →](#ch-16) |
+| **§ 17** | 🔁 Recursion Problems | [Open →](#ch-17) |
+| **§ 18** | 📚 Stack Problems | [Open →](#ch-18) |
+| **§ 19** | 📋 Queue Problems | [Open →](#ch-19) |
+| **§ 20** | 🔗 Linked List Problems | [Open →](#ch-20) |
+| **§ 21** | 🌳 Trees Problems | [Open →](#ch-21) |
+| **§ 22** | 🌲 BST Problems | [Open →](#ch-22) |
+| **§ 23** | 🗑️ Heap Problems | [Open →](#ch-23) |
+| **§ 24** | 🌐 Graph Problems | [Open →](#ch-24) |
+| **§ 25** | 💰 Greedy Problems | [Open →](#ch-25) |
+| **§ 26** | 🧮 Dynamic Programming | [Open →](#ch-26) |
+| **§ 27** | 🚪 Sliding Window | [Open →](#ch-27) |
+| **§ 28** | 🚪 Sliding Window Problems | [Open →](#ch-28) |
+| **§ 29** | 👉 Two Pointer | [Open →](#ch-29) |
+| **§ 30** | 👉 Two Pointer Problems | [Open →](#ch-30) |
+| **§ 31** | ➕ Prefix Sum Problems | [Open →](#ch-31) |
+| **§ 32** | 🎭 Bit Manipulation | [Open →](#ch-32) |
+| **§ 33** | 🌲 Trie Problems | [Open →](#ch-33) |
+| **§ 34** | 🌳 Segment Tree Problems | [Open →](#ch-34) |
+
+---
+
+<a id="ch-01"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_01-🎯_Placement_Preparation_Roadmap-6C63FF?style=for-the-badge" alt="Chapter 01"/>
+  </a>
+</p>
 
 <details>
-<summary><b>🎯 Placement Preparation Roadmap — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 1</b> · Placement Preparation Roadmap · <i>Click to Expand ▼</i></summary>
 
 # 🎯 Placement Preparation Roadmap
 
@@ -269,13 +293,27 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
   <img src="https://github.com/user-attachments/assets/de3a9a26-fafa-4ddf-b276-af74bf8614ac" alt="DSA Roadmap" width="90%">
 </p>
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
+
 </details>
 
 ---
 
+<a id="ch-02"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_02-📘_Learning_Resources-3498DB?style=for-the-badge" alt="Chapter 02"/>
+  </a>
+</p>
+
 <details>
-<summary><b>📘 Learning Resources & Playlists — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 2</b> · Learning Resources · <i>Click to Expand ▼</i></summary>
 
 ## 🎯 Recommended Learning Resources.
 
@@ -299,13 +337,27 @@ You may follow any one DSA playlist along with these notes:
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
+
 </details>
 
 ---
 
+<a id="ch-03"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_03-📚_DSA_Sheets_Collection-FF6B6B?style=for-the-badge" alt="Chapter 03"/>
+  </a>
+</p>
+
 <details>
-<summary><b>📚 DSA Sheets Collection — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 3</b> · DSA Sheets Collection · <i>Click to Expand ▼</i></summary>
 
 # 📚 DSA Sheets Collection
 
@@ -372,13 +424,27 @@ A focused list of 151 essential DSA problems for interview preparation.
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
+
 </details>
 
 ---
 
+<a id="ch-04"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_04-🧠_DSA_Pattern_Recognition_Guide-4ECDC4?style=for-the-badge" alt="Chapter 04"/>
+  </a>
+</p>
+
 <details>
-<summary><b>🧠 DSA Pattern Recognition Guide — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 4</b> · DSA Pattern Recognition Guide · <i>Click to Expand ▼</i></summary>
 
 # 🧠 DSA Pattern Recognition Guide
 
@@ -870,13 +936,27 @@ Use when:
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
+
 </details>
 
 ---
 
+<a id="ch-05"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_05-🧱_Part_1-6C63FF?style=for-the-badge" alt="Chapter 05"/>
+  </a>
+</p>
+
 <details>
-<summary><b>🧱 Part 1: Linear Data Structures — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 5</b> · Part 1 · <i>Click to Expand ▼</i></summary>
 
 # 🧱 PART 1: LINEAR DATA STRUCTURES
 
@@ -921,13 +1001,27 @@ Arrays are widely used because they:
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
+
 </details>
 
 ---
 
+<a id="ch-06"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_06-🌳_Part_2-2ECC71?style=for-the-badge" alt="Chapter 06"/>
+  </a>
+</p>
+
 <details>
-<summary><b>🌳 Part 2: Non-Linear Data Structures — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 6</b> · Part 2 · <i>Click to Expand ▼</i></summary>
 
 # 🌳 PART 2: NON-LINEAR DATA STRUCTURES
 
@@ -1019,13 +1113,27 @@ Unlike trees, graphs:
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
+
 </details>
 
 ---
 
+<a id="ch-07"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_07-⚙️_Part_3-E74C3C?style=for-the-badge" alt="Chapter 07"/>
+  </a>
+</p>
+
 <details>
-<summary><b>⚙️ Part 3: Algorithms — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 7</b> · Part 3 · <i>Click to Expand ▼</i></summary>
 
 # ⚙️ PART 3: ALGORITHMS
 
@@ -1149,13 +1257,27 @@ Mastering **DSA theory** builds the foundation for:
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
+
 </details>
 
 ---
 
+<a id="ch-08"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_08-📕_Advanced_DSA_Theory-9B59B6?style=for-the-badge" alt="Chapter 08"/>
+  </a>
+</p>
+
 <details>
-<summary><b>📕 Advanced DSA Theory — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 8</b> · Advanced DSA Theory · <i>Click to Expand ▼</i></summary>
 
 # 📕 Advanced Data Structures & Algorithms – Complete Theory
 
@@ -1356,19 +1478,40 @@ A tree-based structure for storing strings using prefixes.
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
+
 </details>
 
 ---
 
+<a id="ch-09"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_09-💻_LeetCode_Topic-wise_Problems-F39C12?style=for-the-badge" alt="Chapter 09"/>
+  </a>
+</p>
+
 <details>
-<summary><b>💻 LeetCode Topic-wise Problems — Click to Expand ▼</b></summary>
-<br/>
+<summary>📖 <b>Chapter 9</b> · LeetCode Topic-wise Problems · <i>Click to Expand ▼</i></summary>
 
 # LeetCode-Topic-wise-Problems to Crack any interviews.
 
+<a id="ch-10"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_10-🧠_Hashing_Problems-E67E22?style=for-the-badge" alt="Chapter 10"/>
+  </a>
+</p>
+
 <details>
-<summary>🧠 Hashing Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 10</b> · Hashing Problems · <i>Click to Expand ▼</i></summary>
 
 ## 🧠 Hashing Problems ---
 
@@ -1483,11 +1626,25 @@ A tree-based structure for storing strings using prefixes.
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-11"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_11-📌_Arrays_Problems-3498DB?style=for-the-badge" alt="Chapter 11"/>
+  </a>
+</p>
+
 <details>
-<summary>📌 Arrays Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 11</b> · Arrays Problems · <i>Click to Expand ▼</i></summary>
 
 ## Arrays 
 
@@ -1600,11 +1757,25 @@ A tree-based structure for storing strings using prefixes.
 | 29 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |
 | 30 | [Longest Substring of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-12"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_12-📝_Strings_Problems-1ABC9C?style=for-the-badge" alt="Chapter 12"/>
+  </a>
+</p>
+
 <details>
-<summary>📝 Strings Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 12</b> · Strings Problems · <i>Click to Expand ▼</i></summary>
 
 ## Strings
 
@@ -1717,11 +1888,25 @@ A tree-based structure for storing strings using prefixes.
 | 29 | [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | Hard |
 | 30 | [Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-13"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_13-🔍_Searching_Problems-9B59B6?style=for-the-badge" alt="Chapter 13"/>
+  </a>
+</p>
+
 <details>
-<summary>🔍 Searching Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 13</b> · Searching Problems · <i>Click to Expand ▼</i></summary>
 
 ## **Searching**
 
@@ -1834,11 +2019,25 @@ A tree-based structure for storing strings using prefixes.
 | 29  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Hard |
 | 30  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-14"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_14-🔃_Sorting_Problems-E74C3C?style=for-the-badge" alt="Chapter 14"/>
+  </a>
+</p>
+
 <details>
-<summary>🔃 Sorting Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 14</b> · Sorting Problems · <i>Click to Expand ▼</i></summary>
 
 ## **Sorting**
 
@@ -1963,11 +2162,25 @@ A tree-based structure for storing strings using prefixes.
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-15"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_15-🔃_Sorting_Techniques-C0392B?style=for-the-badge" alt="Chapter 15"/>
+  </a>
+</p>
+
 <details>
-<summary>🔃 Sorting Techniques — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 15</b> · Sorting Techniques · <i>Click to Expand ▼</i></summary>
 
 # Sorting Techniques
 
@@ -2097,11 +2310,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-16"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_16-🔙_Backtracking_Problems-8E44AD?style=for-the-badge" alt="Chapter 16"/>
+  </a>
+</p>
+
 <details>
-<summary>🔙 Backtracking Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 16</b> · Backtracking Problems · <i>Click to Expand ▼</i></summary>
 
 ## Backtracking
 
@@ -2210,11 +2437,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Minimum Window Substring II](https://leetcode.com/problems/minimum-window-substring-ii/) | Hard |
 | 30 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-17"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_17-🔁_Recursion_Problems-2980B9?style=for-the-badge" alt="Chapter 17"/>
+  </a>
+</p>
+
 <details>
-<summary>🔁 Recursion Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 17</b> · Recursion Problems · <i>Click to Expand ▼</i></summary>
 
 ## Recursion
 
@@ -2323,11 +2564,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | Hard |
 | 30 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-18"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_18-📚_Stack_Problems-16A085?style=for-the-badge" alt="Chapter 18"/>
+  </a>
+</p>
+
 <details>
-<summary>📚 Stack Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 18</b> · Stack Problems · <i>Click to Expand ▼</i></summary>
 
 ## Stack
 
@@ -2436,11 +2691,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |
 | 30 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-19"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_19-📋_Queue_Problems-27AE60?style=for-the-badge" alt="Chapter 19"/>
+  </a>
+</p>
+
 <details>
-<summary>📋 Queue Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 19</b> · Queue Problems · <i>Click to Expand ▼</i></summary>
 
 ## Queue
 
@@ -2526,11 +2795,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard |
 | 30 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-20"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_20-🔗_Linked_List_Problems-2C3E50?style=for-the-badge" alt="Chapter 20"/>
+  </a>
+</p>
+
 <details>
-<summary>🔗 Linked List Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 20</b> · Linked List Problems · <i>Click to Expand ▼</i></summary>
 
 ## Linked List
 ### 🟢 Easy
@@ -2640,11 +2923,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Partition List](https://leetcode.com/problems/partition-list/) | Hard |
 | 30 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-21"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_21-🌳_Trees_Problems-27AE60?style=for-the-badge" alt="Chapter 21"/>
+  </a>
+</p>
+
 <details>
-<summary>🌳 Trees Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 21</b> · Trees Problems · <i>Click to Expand ▼</i></summary>
 
 ## 🌳 Trees
 
@@ -2758,11 +3055,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-22"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_22-🌲_BST_Problems-1E8449?style=for-the-badge" alt="Chapter 22"/>
+  </a>
+</p>
+
 <details>
-<summary>🌲 BST Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 22</b> · BST Problems · <i>Click to Expand ▼</i></summary>
 
 ## **Binary Search Tree (BST)**
 
@@ -2872,11 +3183,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard |
 | 30  | [K-th Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-23"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_23-🗑️_Heap_Problems-D35400?style=for-the-badge" alt="Chapter 23"/>
+  </a>
+</p>
+
 <details>
-<summary>🗑️ Heap Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 23</b> · Heap Problems · <i>Click to Expand ▼</i></summary>
 
 # Heap Problems
 
@@ -2985,11 +3310,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard |
 | 30 | [Find Kth Largest Element in the Array](https://leetcode.com/problems/find-kth-largest-element-in-the-array/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-24"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_24-🌐_Graph_Problems-2874A6?style=for-the-badge" alt="Chapter 24"/>
+  </a>
+</p>
+
 <details>
-<summary>🌐 Graph Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 24</b> · Graph Problems · <i>Click to Expand ▼</i></summary>
 
 ## **Graph Problems**
 
@@ -3102,11 +3441,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29  | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard |
 | 30  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-25"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_25-💰_Greedy_Problems-F1C40F?style=for-the-badge" alt="Chapter 25"/>
+  </a>
+</p>
+
 <details>
-<summary>💰 Greedy Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 25</b> · Greedy Problems · <i>Click to Expand ▼</i></summary>
 
 ## **Greedy**
 
@@ -3220,11 +3573,25 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 ### 🟡 Medium
 ### 🔴 Hard
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-26"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_26-🧮_Dynamic_Programming-8E44AD?style=for-the-badge" alt="Chapter 26"/>
+  </a>
+</p>
+
 <details>
-<summary>🧮 Dynamic Programming — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 26</b> · Dynamic Programming · <i>Click to Expand ▼</i></summary>
 
 ## **Dynamic Programming (DP)**
 
@@ -3379,21 +3746,49 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 9   | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |
 | 10  | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-27"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_27-🚪_Sliding_Window-E67E22?style=for-the-badge" alt="Chapter 27"/>
+  </a>
+</p>
+
 <details>
-<summary>🚪 Sliding Window — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 27</b> · Sliding Window · <i>Click to Expand ▼</i></summary>
 
 # 🚪 Sliding Window 
 
 Sliding Window is a commonly used technique for solving array and string problems involving subarrays/substrings, maximum/minimums, or fixed/variable window sizes.
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-27"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_27-🚪_Sliding_Window-E67E22?style=for-the-badge" alt="Chapter 27"/>
+  </a>
+</p>
+
 <details>
-<summary>🚪 Sliding Window Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 27</b> · Sliding Window · <i>Click to Expand ▼</i></summary>
 
 # Sliding Window Problems
 
@@ -3502,19 +3897,47 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard |
 | 30 | [Find Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/find-kth-smallest-element-in-sorted-matrix/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-29"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_29-👉_Two_Pointer-5DADE2?style=for-the-badge" alt="Chapter 29"/>
+  </a>
+</p>
+
 <details>
-<summary>👉 Two Pointer — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 29</b> · Two Pointer · <i>Click to Expand ▼</i></summary>
 
 # 📌 Two Pointer
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-29"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_29-👉_Two_Pointer-5DADE2?style=for-the-badge" alt="Chapter 29"/>
+  </a>
+</p>
+
 <details>
-<summary>👉 Two Pointer Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 29</b> · Two Pointer · <i>Click to Expand ▼</i></summary>
 
 # Two Pointer Problems
 
@@ -3627,11 +4050,25 @@ Sliding Window is a commonly used technique for solving array and string problem
 
 ---
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-31"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_31-➕_Prefix_Sum_Problems-1ABC9C?style=for-the-badge" alt="Chapter 31"/>
+  </a>
+</p>
+
 <details>
-<summary>➕ Prefix Sum Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 31</b> · Prefix Sum Problems · <i>Click to Expand ▼</i></summary>
 
 # Prefix Sum Problems
 
@@ -3740,11 +4177,25 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Hard |
 | 30 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-32"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_32-🎭_Bit_Manipulation-7D3C98?style=for-the-badge" alt="Chapter 32"/>
+  </a>
+</p>
+
 <details>
-<summary>🎭 Bit Manipulation — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 32</b> · Bit Manipulation · <i>Click to Expand ▼</i></summary>
 
 # Bit Manipulation Problems
 
@@ -3853,11 +4304,25 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard |
 | 30 | [Find Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/find-kth-smallest-element-in-sorted-matrix/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-33"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_33-🌲_Trie_Problems-229954?style=for-the-badge" alt="Chapter 33"/>
+  </a>
+</p>
+
 <details>
-<summary>🌲 Trie Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 33</b> · Trie Problems · <i>Click to Expand ▼</i></summary>
 
 # Trie Problems for Interview Preparation
 
@@ -3966,11 +4431,25 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Word Break](https://leetcode.com/problems/word-break/) | Hard |
 | 30 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
 
+<a id="ch-34"></a>
+
+<p align="center">
+  <a href="#table-of-contents">
+    <img src="https://img.shields.io/badge/§_34-🌳_Segment_Tree_Problems-196F3D?style=for-the-badge" alt="Chapter 34"/>
+  </a>
+</p>
+
 <details>
-<summary>🌳 Segment Tree Problems — Click to Expand ▼</summary>
-<br/>
+<summary>📖 <b>Chapter 34</b> · Segment Tree Problems · <i>Click to Expand ▼</i></summary>
 
 # Segment Tree Problems for Interview Preparation
 
@@ -4079,20 +4558,50 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Hard |
 | 30 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Hard |
 
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>&nbsp;&nbsp;<a href="#ch-09"><img src="https://img.shields.io/badge/⬆️_Back-§_9_Problems_Index-F39C12?style=for-the-badge" alt="Ch9"/></a>
+
+</div>
+
 </details>
+
+
+<div align="center">
+
+<a href="#table-of-contents"><img src="https://img.shields.io/badge/⬆️_Back_to_Contents-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/></a>
+
+</div>
 
 </details>
 
 ---
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=80&section=footer&animation=twinkling" alt="Footer" width="100%"/>
+## 👤 Author & Maintainer
 
-### ⭐ If this repository helped you, consider starring it and sharing it with others.
+<a href="https://github.com/RathodAnilT">
+<img src="https://img.shields.io/badge/GitHub-RathodAnilT-181717?style=for-the-badge&logo=github" alt="Author"/>
+</a>
 
-[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support_Us-yellow?style=for-the-badge&logo=github)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
+**Anil Rathod** — DSA & Interview Preparation
 
-**Made with ❤️ for DSA & Interview Preparation**
+<br/>
+
+### ⭐ If this repository helped you, consider starring it!
+
+<a href="https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers">
+<img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support_the_Project-yellow?style=for-the-badge&logo=github" alt="Star"/>
+</a>
+
+<br/>
+
+<a href="#table-of-contents">
+<img src="https://img.shields.io/badge/⬆️_BACK_TO_CONTENTS-Table_of_Contents-6C63FF?style=for-the-badge" alt="Back"/>
+</a>
 
 </div>
