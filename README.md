@@ -1,208 +1,188 @@
-`This repository contains **detailed, concept-oriented theory notes and leetcode problems** on **Data Structures and Algorithms (DSA)**.  
+<details>
+<summary>📘 DSA Mastery Roadmap + Theory + Problems (Click to Expand)</summary>
+
+---
+
+## 📌 About This Repository
+
+This repository contains **detailed, concept-oriented theory notes and LeetCode problems** on **Data Structures and Algorithms (DSA)**.  
 The goal is to explain **every concept clearly**, from **basic to advanced**, with **proper definitions, types, explanations, and complexities**, all in **one single file**.
 
+---
 
-- ## 🎯 Designed For...
+## 🎯 Designed For...
 
-* Product-Based Companies
-* SDE Internships
-* On-Campus Placements
-* Off-Campus Placements
-* FAANG Preparation
-* Competitive Programming
-* Coding Interviews
-* Online Assessments (OA)
-* DSA Mastery
+- Product-Based Companies  
+- SDE Internships  
+- On-Campus Placements  
+- Off-Campus Placements  
+- FAANG Preparation  
+- Competitive Programming  
+- Coding Interviews  
+- Online Assessments (OA)  
+- DSA Mastery  
+
+---
 
 # 🎯 Placement Preparation Roadmap
 
 Follow this roadmap step by step to build strong problem-solving skills and crack coding interviews.
 
+---
+
 ## 📌 Phase 1: Build the Foundation
 
 ### Topics
-
-* Arrays
-* Strings
-* Hashing
-* Sorting
-* Basic Mathematics
+- Arrays
+- Strings
+- Hashing
+- Sorting
+- Basic Mathematics
 
 ### Focus
+- Learn time and space complexity  
+- Master traversal and iteration techniques  
+- Recognize patterns like:
+  - Prefix Sum  
+  - Sliding Window  
+  - Two Pointers  
+  - Hash Map  
 
-* Learn time and space complexity.
-* Master traversal and iteration techniques.
-* Recognize common patterns like:
-
-  * Prefix Sum
-  * Sliding Window
-  * Two Pointers
-  * Hash Map
-
-🎯 Goal: Solve 80-100 problems confidently.
+🎯 Goal: Solve 80–100 problems confidently
 
 ---
 
 ## 📌 Phase 2: Master Linear Data Structures
 
 ### Topics
-
-* Linked List
-* Stack
-* Queue
-* Deque
+- Linked List
+- Stack
+- Queue
+- Deque
 
 ### Focus
+- Pointer manipulation  
+- Monotonic Stack  
+- Next Greater Element  
+- Expression Evaluation  
+- LRU Cache concepts  
 
-* Pointer manipulation
-* Monotonic Stack
-* Next Greater Element
-* Expression Evaluation
-* LRU Cache concepts
-
-🎯 Goal: Solve 50-70 problems and become comfortable with pointer operations.
+🎯 Goal: Solve 50–70 problems
 
 ---
 
-## 📌 Phase 3: Learn Searching and Recursion
+## 📌 Phase 3: Searching & Recursion
 
 ### Topics
-
-* Binary Search
-* Recursion
-* Backtracking
+- Binary Search
+- Recursion
+- Backtracking
 
 ### Focus
+- Binary Search on Answer  
+- Divide & Conquer  
+- Subsets, Permutations, Combinations  
 
-* Binary Search on Answer
-* Divide and Conquer
-* Subsets
-* Permutations
-* Combination Problems
-
-🎯 Goal: Recognize when brute force can be optimized using recursion or binary search.
+🎯 Goal: Learn optimization from brute force
 
 ---
 
-## 📌 Phase 4: Master Hierarchical Structures
+## 📌 Phase 4: Trees & Heaps
 
 ### Topics
-
-* Trees
-* Binary Search Trees
-* Heap
-* Priority Queue
+- Trees
+- BST
+- Heap
+- Priority Queue
 
 ### Focus
+- DFS / BFS  
+- Level Order Traversal  
+- Tree DP  
+- LCA  
+- Top K problems  
 
-* DFS
-* BFS
-* Level Order Traversal
-* Tree DP
-* Lowest Common Ancestor
-* Top K Problems
-
-🎯 Goal: Solve 80+ tree questions without relying on memorization.
+🎯 Goal: Solve 80+ tree problems
 
 ---
 
-## 📌 Phase 5: Become Strong in Graphs
+## 📌 Phase 5: Graphs
 
 ### Topics
-
-* Graph Representation
-* DFS
-* BFS
-* Shortest Path Algorithms
-* Minimum Spanning Tree
+- Graph Representation
+- DFS / BFS
+- Dijkstra
+- MST (Kruskal / Prim)
+- Topological Sort
+- DSU
 
 ### Focus
+- Connected components  
+- Cycle detection  
+- Shortest paths  
 
-* Connected Components
-* Cycle Detection
-* Topological Sort
-* Union Find (DSU)
-* Dijkstra
-* Kruskal
-
-🎯 Goal: Recognize graph patterns instantly during interviews.
+🎯 Goal: Strong graph intuition
 
 ---
 
-## 📌 Phase 6: Conquer Dynamic Programming
+## 📌 Phase 6: Dynamic Programming
 
 ### Topics
-
-* 1D DP
-* 2D DP
-* Knapsack
-* LIS
-* LCS
-* DP on Trees
+- 1D / 2D DP
+- Knapsack
+- LIS / LCS
+- DP on Trees
 
 ### Focus
+- Memoization  
+- Tabulation  
+- State transition  
 
-* Memoization
-* Tabulation
-* State Transition
-* Space Optimization
-
-🎯 Goal: Learn to derive recurrence relations independently.
+🎯 Goal: Build recurrence thinking
 
 ---
 
-## 📌 Phase 7: Learn Advanced Patterns
+## 📌 Phase 7: Advanced Topics
 
 ### Topics
+- Greedy
+- Trie
+- Bit Manipulation
+- Segment Tree
+- Fenwick Tree
 
-* Greedy Algorithms
-* Trie
-* Bit Manipulation
-* Segment Tree
-* Fenwick Tree
-
-### Focus
-
-* Optimization strategies
-* Prefix Matching
-* Range Queries
-* XOR Patterns
-
-🎯 Goal: Prepare for hard interview questions and competitive programming.
+🎯 Goal: Competitive programming readiness
 
 ---
 
 ## 📌 Phase 8: Interview Simulation
 
-### Topics
+- Mock Interviews  
+- OA Practice  
+- Company Questions  
+- Mixed Problem Sets  
 
-* Mixed Interview Questions
-* Company Tagged Questions
-* Mock Interviews
-* Online Assessments
-
-### Focus
-
-* Pattern Recognition
-* Communication Skills
-* Writing Optimal Code
-* Explaining Approach Clearly
-
-🎯 Goal: Solve unseen problems using previously learned patterns.
+🎯 Goal: Real interview readiness
 
 ---
 
-## Final Milestone
+## 🏁 Final Milestone
 
-- ✅ 400-600 Quality Problems Solved
-- ✅ Strong Pattern Recognition
-- ✅ Comfortable with Medium Problems
-- ✅ Able to Solve Most Interview Questions Independently
-- ✅ Ready for Product-Based Companies and SDE Roles
+- 400–600 Problems Solved  
+- Strong Pattern Recognition  
+- Medium Problem Fluency  
+- Interview Confidence  
+- Product Company Ready  
 
-## Recommended Progression
+---
 
-Foundation → Patterns → Data Structures → Algorithms → Optimization → Interviews
+## 🚀 Recommended Flow
+
+Foundation → Patterns → DS → Algorithms → Optimization → Interviews
+
+---
+
+</details>
 
   
 ---
