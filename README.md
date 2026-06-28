@@ -1,30 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=180&section=header&text=LeetCode%20Topic-wise%20Solutions&fontSize=48&fontColor=fff&animation=twinkling" alt="Header Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=160&section=header&text=LeetCode%20Topic-wise%20Solutions&fontSize=44&fontColor=fff&animation=twinkling" alt="Header" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=DSA+Mastery+Roadmap+%F0%9F%9A%80;Theory+%2B+Problems+%F0%9F%93%9A;Crack+Any+Interview+%F0%9F%92%BC;400%2B+LeetCode+Problems+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=DSA+Mastery+Roadmap+%F0%9F%9A%80;Theory+%2B+Problems+%F0%9F%93%9A;Crack+Any+Interview+%F0%9F%92%BC" alt="Typing" />
 
 <br/>
 
-[![GitHub Stars](https://img.shields.io/github/stars/RathodAnilT/LeetCode-Topic-wise-Solutions?style=for-the-badge&logo=github&color=yellow&label=Stars)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
+[![Stars](https://img.shields.io/github/stars/RathodAnilT/LeetCode-Topic-wise-Solutions?style=for-the-badge&logo=github&color=yellow)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Topic_Wise-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![DSA](https://img.shields.io/badge/DSA-Complete_Guide-6C63FF?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
 [![Interview](https://img.shields.io/badge/Interview-Ready-2ECC71?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
-[![Placement](https://img.shields.io/badge/Placement-Prep-E74C3C?style=for-the-badge)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions)
-
-<br/>
-
-### ⬇️ Quick Navigation — Click Any Button Below ⬇️
-
-| | | |
-|:---:|:---:|:---:|
-| <a href="#-placement-preparation-roadmap"><img src="https://img.shields.io/badge/➡️_ROADMAP-8_Phases-6C63FF?style=for-the-badge" alt="Roadmap"/></a> | <a href="#-recommended-learning-resources"><img src="https://img.shields.io/badge/➡️_RESOURCES-DSA_Playlists-3498DB?style=for-the-badge&logo=youtube&logoColor=white" alt="Resources"/></a> | <a href="#-dsa-sheets-collection"><img src="https://img.shields.io/badge/➡️_SHEETS-7+_Collections-FF6B6B?style=for-the-badge" alt="Sheets"/></a> |
-| <a href="#-dsa-pattern-recognition-guide"><img src="https://img.shields.io/badge/➡️_PATTERNS-DSA_Guide-4ECDC4?style=for-the-badge" alt="Patterns"/></a> | <a href="#-part-1-linear-data-structures"><img src="https://img.shields.io/badge/➡️_PART_1-Linear_DS-6C63FF?style=for-the-badge" alt="Part 1"/></a> | <a href="#-part-2-non-linear-data-structures"><img src="https://img.shields.io/badge/➡️_PART_2-Non_Linear_DS-2ECC71?style=for-the-badge" alt="Part 2"/></a> |
-| <a href="#-part-3-algorithms"><img src="https://img.shields.io/badge/➡️_PART_3-Algorithms-E74C3C?style=for-the-badge" alt="Part 3"/></a> | <a href="#-advanced-data-structures--algorithms--complete-theory"><img src="https://img.shields.io/badge/➡️_ADVANCED-DSA_Theory-9B59B6?style=for-the-badge" alt="Advanced"/></a> | <a href="#leetcode-topic-wise-problems-to-crack-any-interviews"><img src="https://img.shields.io/badge/➡️_PROBLEMS-LeetCode-F39C12?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems"/></a> |
 
 </div>
-
----
 
 ---
 
@@ -49,12 +36,56 @@ The goal is to explain **every concept clearly**, from **basic to advanced**, wi
 
 ---
 
+## 📑 Table of Contents
 
-<div align="center">
+> **How to use:** Scroll down and click any **▼ Expand** section to open it. Click again to collapse.  
+> This keeps the README easy to navigate despite 4000+ lines of content.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:6C63FF&height=50&section=header&text=%F0%9F%8E%AF%20PLACEMENT%20PREPARATION%20ROADMAP&fontSize=22&fontColor=fff" alt="Roadmap" width="100%"/>
+### 📘 Theory & Roadmap
 
-</div>
+| # | Section | What's Inside |
+|:-:|---------|---------------|
+| 1️⃣ | **🎯 Placement Preparation Roadmap** | 8 phases from basics to interview ready |
+| 2️⃣ | **📘 Learning Resources & Playlists** | Best DSA YouTube playlists + roadmap images |
+| 3️⃣ | **📚 DSA Sheets Collection** | Striver, NeetCode, Love Babbar & more |
+| 4️⃣ | **🧠 DSA Pattern Recognition Guide** | When to use Binary Search, DP, Graphs, etc. |
+| 5️⃣ | **🧱 Part 1 — Linear Data Structures** | Arrays theory & concepts |
+| 6️⃣ | **🌳 Part 2 — Non-Linear Data Structures** | Trees & Graphs theory |
+| 7️⃣ | **⚙️ Part 3 — Algorithms** | Searching, Sorting, Recursion, DP theory |
+| 8️⃣ | **📕 Advanced DSA Theory** | Heap, Trie, DSU, Graph algorithms & more |
+
+### 💻 LeetCode Problems (Topic-wise)
+
+| # | Topic | Difficulty Levels |
+|:-:|-------|-------------------|
+| 9️⃣ | **🧠 Hashing** | Easy · Medium · Hard |
+| 🔟 | **📌 Arrays** | Easy · Medium · Hard |
+| 1️⃣1️⃣ | **📝 Strings** | Easy · Medium · Hard |
+| 1️⃣2️⃣ | **🔍 Searching** | Easy · Medium · Hard |
+| 1️⃣3️⃣ | **🔃 Sorting** | Easy · Medium · Hard |
+| 1️⃣4️⃣ | **🔙 Backtracking** | Easy · Medium · Hard |
+| 1️⃣5️⃣ | **🔁 Recursion** | Easy · Medium · Hard |
+| 1️⃣6️⃣ | **📚 Stack** | Easy · Medium · Hard |
+| 1️⃣7️⃣ | **📋 Queue** | Easy · Medium · Hard |
+| 1️⃣8️⃣ | **🔗 Linked List** | Easy · Medium · Hard |
+| 1️⃣9️⃣ | **🌳 Trees** | Easy · Medium · Hard |
+| 2️⃣0️⃣ | **🌲 BST** | Easy · Medium · Hard |
+| 2️⃣1️⃣ | **🗑️ Heap** | Easy · Medium · Hard |
+| 2️⃣2️⃣ | **🌐 Graph** | Easy · Medium · Hard |
+| 2️⃣3️⃣ | **💰 Greedy** | Easy · Medium · Hard |
+| 2️⃣4️⃣ | **🧮 Dynamic Programming** | Easy · Medium · Hard |
+| 2️⃣5️⃣ | **🚪 Sliding Window** | Easy · Medium · Hard |
+| 2️⃣6️⃣ | **👉 Two Pointer** | Easy · Medium · Hard |
+| 2️⃣7️⃣ | **➕ Prefix Sum** | Easy · Medium · Hard |
+| 2️⃣8️⃣ | **🎭 Bit Manipulation** | Easy · Medium · Hard |
+| 2️⃣9️⃣ | **🌲 Trie** | Easy · Medium · Hard |
+| 3️⃣0️⃣ | **🌳 Segment Tree** | Easy · Medium · Hard |
+
+---
+
+<details>
+<summary><b>🎯 Placement Preparation Roadmap — Click to Expand ▼</b></summary>
+<br/>
 
 # 🎯 Placement Preparation Roadmap
 
@@ -228,12 +259,23 @@ Foundation → Patterns → DS → Algorithms → Optimization → Interviews
 
 ---
 
+---
 
-<div align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a083dae-0e0d-4fa7-a566-005569258345" alt="DSA Roadmap" width="90%">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3498DB,100:3498DB&height=50&section=header&text=%F0%9F%93%98%20LEARNING%20RESOURCES%20%26%20PLAYLISTS&fontSize=20&fontColor=fff" alt="Resources" width="100%"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de3a9a26-fafa-4ddf-b276-af74bf8614ac" alt="DSA Roadmap" width="90%">
+</p>
 
-</div>
+</details>
+
+---
+
+<details>
+<summary><b>📘 Learning Resources & Playlists — Click to Expand ▼</b></summary>
+<br/>
 
 ## 🎯 Recommended Learning Resources.
 
@@ -257,12 +299,13 @@ You may follow any one DSA playlist along with these notes:
 
 ---
 
+</details>
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B6B,100:FF6B6B&height=50&section=header&text=%F0%9F%93%9A%20DSA%20SHEETS%20COLLECTION&fontSize=22&fontColor=fff" alt="Sheets" width="100%"/>
-
-</div>
+<details>
+<summary><b>📚 DSA Sheets Collection — Click to Expand ▼</b></summary>
+<br/>
 
 # 📚 DSA Sheets Collection
 
@@ -329,12 +372,13 @@ A focused list of 151 essential DSA problems for interview preparation.
 
 ---
 
+</details>
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4ECDC4,100:4ECDC4&height=50&section=header&text=%F0%9F%A7%A0%20DSA%20PATTERN%20RECOGNITION%20GUIDE&fontSize=20&fontColor=fff" alt="Patterns" width="100%"/>
-
-</div>
+<details>
+<summary><b>🧠 DSA Pattern Recognition Guide — Click to Expand ▼</b></summary>
+<br/>
 
 # 🧠 DSA Pattern Recognition Guide
 
@@ -459,12 +503,6 @@ Use when:
 
 ---
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_🌳_Trees-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
 
 ## 🌳 Trees
 
@@ -830,21 +868,15 @@ Use when:
 
   
 
+---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
-
-<br/>
+</details>
 
 ---
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=130&section=header&text=%F0%9F%A7%B1%20PART%201%20%E2%80%94%20LINEAR%20DATA%20STRUCTURES&fontSize=32&fontColor=fff&animation=twinkling" alt="Part 1" width="100%"/>
-
-</div>
+<details>
+<summary><b>🧱 Part 1: Linear Data Structures — Click to Expand ▼</b></summary>
+<br/>
 
 # 🧱 PART 1: LINEAR DATA STRUCTURES
 
@@ -887,23 +919,15 @@ Arrays are widely used because they:
 
 ---
 
+---
 
-
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
-
-<br/>
+</details>
 
 ---
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,9,15,21&height=130&section=header&text=%F0%9F%8C%B3%20PART%202%20%E2%80%94%20NON-LINEAR%20DATA%20STRUCTURES&fontSize=30&fontColor=fff&animation=twinkling" alt="Part 2" width="100%"/>
-
-</div>
+<details>
+<summary><b>🌳 Part 2: Non-Linear Data Structures — Click to Expand ▼</b></summary>
+<br/>
 
 # 🌳 PART 2: NON-LINEAR DATA STRUCTURES
 
@@ -993,23 +1017,15 @@ Unlike trees, graphs:
 
 ---
 
+---
 
-
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
-
-<br/>
+</details>
 
 ---
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,11,17,23&height=130&section=header&text=%E2%9A%99%EF%B8%8F%20PART%203%20%E2%80%94%20ALGORITHMS&fontSize=36&fontColor=fff&animation=twinkling" alt="Part 3" width="100%"/>
-
-</div>
+<details>
+<summary><b>⚙️ Part 3: Algorithms — Click to Expand ▼</b></summary>
+<br/>
 
 # ⚙️ PART 3: ALGORITHMS
 
@@ -1131,22 +1147,15 @@ Mastering **DSA theory** builds the foundation for:
 - Cracking interviews
 - Understanding system design
 
+---
 
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
-
-<br/>
+</details>
 
 ---
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,14,20,26&height=110&section=header&text=%F0%9F%93%95%20ADVANCED%20DSA%20THEORY&fontSize=34&fontColor=fff&animation=twinkling" alt="Advanced" width="100%"/>
-
-</div>
+<details>
+<summary><b>📕 Advanced DSA Theory — Click to Expand ▼</b></summary>
+<br/>
 
 # 📕 Advanced Data Structures & Algorithms – Complete Theory
 
@@ -1345,30 +1354,21 @@ A tree-based structure for storing strings using prefixes.
 
 ⭐ If this repository helped you, consider starring it and sharing it with others.
 
+---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:9B59B6,100:2ECC71&height=6&section=header" width="100%"/>
-
-<br/>
+</details>
 
 ---
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=130&section=header&text=%F0%9F%92%BB%20LEETCODE%20TOPIC-WISE%20PROBLEMS&fontSize=32&fontColor=fff&animation=twinkling" alt="Problems" width="100%"/>
-
-</div>
+<details>
+<summary><b>💻 LeetCode Topic-wise Problems — Click to Expand ▼</b></summary>
+<br/>
 
 # LeetCode-Topic-wise-Problems to Crack any interviews.
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_🧠_Hashing_Problems_----Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🧠 Hashing Problems — Click to Expand ▼</summary>
+<br/>
 
 ## 🧠 Hashing Problems ---
 
@@ -1483,13 +1483,11 @@ A tree-based structure for storing strings using prefixes.
 
 ---
 
+</details>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Arrays-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>📌 Arrays Problems — Click to Expand ▼</summary>
+<br/>
 
 ## Arrays 
 
@@ -1602,14 +1600,11 @@ A tree-based structure for storing strings using prefixes.
 | 29 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |
 | 30 | [Longest Substring of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | Hard |
 
+</details>
 
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Strings-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>📝 Strings Problems — Click to Expand ▼</summary>
+<br/>
 
 ## Strings
 
@@ -1722,14 +1717,11 @@ A tree-based structure for storing strings using prefixes.
 | 29 | [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | Hard |
 | 30 | [Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Hard |
 
+</details>
 
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_**Searching**-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🔍 Searching Problems — Click to Expand ▼</summary>
+<br/>
 
 ## **Searching**
 
@@ -1842,13 +1834,11 @@ A tree-based structure for storing strings using prefixes.
 | 29  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Hard |
 | 30  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Hard |
 
+</details>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_**Sorting**-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🔃 Sorting Problems — Click to Expand ▼</summary>
+<br/>
 
 ## **Sorting**
 
@@ -1973,11 +1963,11 @@ A tree-based structure for storing strings using prefixes.
 
 ---
 
-<div align="center">
+</details>
 
-<img src="https://img.shields.io/badge/➡️_Sorting_Techniques-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🔃 Sorting Techniques — Click to Expand ▼</summary>
+<br/>
 
 # Sorting Techniques
 
@@ -2107,15 +2097,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 ---
 
+</details>
 
-
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Backtracking-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🔙 Backtracking Problems — Click to Expand ▼</summary>
+<br/>
 
 ## Backtracking
 
@@ -2224,13 +2210,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Minimum Window Substring II](https://leetcode.com/problems/minimum-window-substring-ii/) | Hard |
 | 30 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Hard |
 
+</details>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Recursion-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🔁 Recursion Problems — Click to Expand ▼</summary>
+<br/>
 
 ## Recursion
 
@@ -2339,13 +2323,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | Hard |
 | 30 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Hard |
 
+</details>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Stack-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>📚 Stack Problems — Click to Expand ▼</summary>
+<br/>
 
 ## Stack
 
@@ -2454,13 +2436,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard |
 | 30 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard |
 
+</details>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Queue-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>📋 Queue Problems — Click to Expand ▼</summary>
+<br/>
 
 ## Queue
 
@@ -2546,14 +2526,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard |
 | 30 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Hard |
 
+</details>
 
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Linked_List-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🔗 Linked List Problems — Click to Expand ▼</summary>
+<br/>
 
 ## Linked List
 ### 🟢 Easy
@@ -2663,7 +2640,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [Partition List](https://leetcode.com/problems/partition-list/) | Hard |
 | 30 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Hard |
 
+</details>
 
+<details>
+<summary>🌳 Trees Problems — Click to Expand ▼</summary>
+<br/>
 
 ## 🌳 Trees
 
@@ -2777,12 +2758,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 
 ---
 
+</details>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_**Binary_Search_Tree_(BST)**-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🌲 BST Problems — Click to Expand ▼</summary>
+<br/>
 
 ## **Binary Search Tree (BST)**
 
@@ -2892,12 +2872,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hard |
 | 30  | [K-th Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Hard |
 
+</details>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Heap_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🗑️ Heap Problems — Click to Expand ▼</summary>
+<br/>
 
 # Heap Problems
 
@@ -3006,13 +2985,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard |
 | 30 | [Find Kth Largest Element in the Array](https://leetcode.com/problems/find-kth-largest-element-in-the-array/) | Hard |
 
+</details>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_**Graph_Problems**-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🌐 Graph Problems — Click to Expand ▼</summary>
+<br/>
 
 ## **Graph Problems**
 
@@ -3125,14 +3102,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 29  | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | Hard |
 | 30  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Hard |
 
+</details>
 
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_**Greedy**-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>💰 Greedy Problems — Click to Expand ▼</summary>
+<br/>
 
 ## **Greedy**
 
@@ -3246,12 +3220,11 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 ### 🟡 Medium
 ### 🔴 Hard
 
+</details>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_**Dynamic_Programming_(DP)**-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🧮 Dynamic Programming — Click to Expand ▼</summary>
+<br/>
 
 ## **Dynamic Programming (DP)**
 
@@ -3406,23 +3379,21 @@ Pigeonhole Sort is similar to Counting Sort. It sorts by determining the number 
 | 9   | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard |
 | 10  | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard |
 
+</details>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_🚪_Sliding_Window-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🚪 Sliding Window — Click to Expand ▼</summary>
+<br/>
 
 # 🚪 Sliding Window 
 
 Sliding Window is a commonly used technique for solving array and string problems involving subarrays/substrings, maximum/minimums, or fixed/variable window sizes.
 
-<div align="center">
+</details>
 
-<img src="https://img.shields.io/badge/➡️_Sliding_Window_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🚪 Sliding Window Problems — Click to Expand ▼</summary>
+<br/>
 
 # Sliding Window Problems
 
@@ -3531,22 +3502,19 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard |
 | 30 | [Find Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/find-kth-smallest-element-in-sorted-matrix/) | Hard |
 
+</details>
 
+<details>
+<summary>👉 Two Pointer — Click to Expand ▼</summary>
+<br/>
 
-<div align="center">
+# 📌 Two Pointer
 
-<img src="https://img.shields.io/badge/➡️_📌_Two_Pointer-Problems-F39C12?style=for-the-badge" alt="topic"/>
+</details>
 
-</div>
-
-# 📌 Two Pointer 
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Two_Pointer_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>👉 Two Pointer Problems — Click to Expand ▼</summary>
+<br/>
 
 # Two Pointer Problems
 
@@ -3659,12 +3627,11 @@ Sliding Window is a commonly used technique for solving array and string problem
 
 ---
 
+</details>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Prefix_Sum_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>➕ Prefix Sum Problems — Click to Expand ▼</summary>
+<br/>
 
 # Prefix Sum Problems
 
@@ -3773,14 +3740,11 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Hard |
 | 30 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | Hard |
 
+</details>
 
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Bit_Manipulation_Problems-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🎭 Bit Manipulation — Click to Expand ▼</summary>
+<br/>
 
 # Bit Manipulation Problems
 
@@ -3889,13 +3853,11 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard |
 | 30 | [Find Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/find-kth-smallest-element-in-sorted-matrix/) | Hard |
 
+</details>
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/➡️_Trie_Problems_for_Interview_Preparation-Problems-F39C12?style=for-the-badge" alt="topic"/>
-
-</div>
+<details>
+<summary>🌲 Trie Problems — Click to Expand ▼</summary>
+<br/>
 
 # Trie Problems for Interview Preparation
 
@@ -4004,6 +3966,11 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Word Break](https://leetcode.com/problems/word-break/) | Hard |
 | 30 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard |
 
+</details>
+
+<details>
+<summary>🌳 Segment Tree Problems — Click to Expand ▼</summary>
+<br/>
 
 # Segment Tree Problems for Interview Preparation
 
@@ -4112,19 +4079,20 @@ Sliding Window is a commonly used technique for solving array and string problem
 | 29 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Hard |
 | 30 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Hard |
 
+</details>
+
+</details>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=footer&animation=twinkling" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=80&section=footer&animation=twinkling" alt="Footer" width="100%"/>
 
 ### ⭐ If this repository helped you, consider starring it and sharing it with others.
 
-<a href="https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers">
-  <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support_the_Project-yellow?style=for-the-badge&logo=github" alt="Star"/>
-</a>
+[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support_Us-yellow?style=for-the-badge&logo=github)](https://github.com/RathodAnilT/LeetCode-Topic-wise-Solutions/stargazers)
 
 **Made with ❤️ for DSA & Interview Preparation**
 
 </div>
-
